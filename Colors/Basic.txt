@@ -1,0 +1,18 @@
+red
+orange
+yellow
+brown
+tan
+lime green
+green
+cyan
+teal
+blue
+navy blue
+indigo
+purple
+pink
+magenta
+grey
+white
+black

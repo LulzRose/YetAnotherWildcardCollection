@@ -1,0 +1,63 @@
+body suit
+plug suit
+flight suit
+evening gown
+dress
+school uniform,skirt
+winter clothes,sweater,scarf,pants
+skiing parka,skiing clothes,scarf,ski pants
+nurses uniform,skirt
+doctor's uniform,lab coat,pants
+science uniform,lab coat,pants
+lab coat,body suit,open jacket
+leather jacket,fishnets,leather jeans,black belt,silver buckle,crop top,choker
+pirate clothes,brown belt,open shirt,long sleeves,sword
+track and field clothes,sports bra
+bra and panties,lace
+sarashi
+delinquent clothes
+police uniform,jacket,pants,belt
+medieval peasant clothes
+queen clothes,red cape
+oversized shirt,no pants
+pajamas
+night shirt,no pants
+cowboy clothes,chaps,jeans,brown belt,lasso
+victorian clothes
+denim jacket,jeans,white t-shirt,choker
+t-shirt,jeans
+crop top,yoga pants
+spaghetti straps,low-waist jeans
+bikini
+one-piece swimsuit
+micro-bikini
+towel covering breasts and pussy
+censoring goo
+t-shirt,jeans,backpack
+t-shirt,jeans,hiking backpack,waterbottle,vest
+buttondown shirt,vest,brown belt,yoga pants
+buttondown shirt,open shirt,panties
+knight's armor
+shining armor
+[bikini:chainmail:.25]
+[leotard:armor:.25]
+[leotard:mechanical parts,android body,see-through stomach:.25]
+t-shirt,pants,android arms
+magician clothes,fishnets,black leotard,bowtie,black cape,magic wand,magic trick,top hat
+denim shorts,bikini top,thong
+bandaged chest,bandaid pussy
+cowboy outfit
+thighhighs,gloves,collar
+hockey uniform,hockey stick
+maid uniform,frills,dress,cleavage,duster
+duster jacket,cowboy clothes,pants,holstered gun
+vampire costume,cloak
+mummy costume,bandages,wrapped
+adventurer clothes,brown gloves,hobbit clothes
+victorian maid clothes
+tuxedo,black tie,jacket,buttondown shirt,black pants
+bondage gear,ropes,choker
+ribbons,gift wrapped
+leather gloves,golden collar,old aviation hat
+pirate suit,tricorne
+christmas costume
