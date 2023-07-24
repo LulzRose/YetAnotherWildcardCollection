@@ -1,0 +1,98 @@
+abbot
+abjurer
+able-bodied seaman
+accountant
+activist
+actor
+actress
+actuary
+adhesive bonding machine tender
+adjudicator
+administrative assistant
+administrative services manager
+adult education teacher
+adventurer
+advertising manager
+advertising sales agent
+aerobics instructor
+aerospace engineer
+aerospace engineering technician
+agent
+agricultural engineer
+agricultural equipment operator
+agricultural grader
+agricultural inspector
+alchemist
+arcanist
+architect
+artist
+astromancer
+athlete
+backpacker
+bard
+battlemage
+beastmaster
+carpenter
+chef
+chronomancer
+conjurer
+construction worker
+demonologist
+dentist
+designer
+discoverer
+doctor
+dragonslayer
+electrician
+elementalist
+enchanter
+engineer
+excursionist
+explorer
+firefighter
+gadabout
+gallivanter
+globetrotter
+hair stylist
+holidaymaker
+jet-setter
+journeyer
+lawyer
+mechanic
+necromancer
+nurse
+paladin
+passenger
+photographer
+pilgrim
+plumber
+police officer
+prospector
+receptionist
+reconnoitrer
+rover
+runemaster
+salesperson
+scientist
+scout
+secretary
+sightseer
+social worker
+sorcerer
+summoner
+surveyor
+teacher
+thaumaturge
+tourer
+tourist
+traveller
+vacationer
+vacationist
+veterinarian
+visitor
+voyager
+wanderer
+warlord
+witch
+wizard
+writer

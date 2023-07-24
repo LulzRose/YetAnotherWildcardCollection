@@ -1,0 +1,171 @@
+a-type granite
+aberdeen granite
+ancaster stone
+andesite
+anorthosite
+arkose
+ash flow tuff
+b-type granite
+banktop
+barnack rag
+basalt
+basaltic andesite
+bearl
+beer stone
+bioclastic limestone
+blaxter
+blueschist
+breccia
+brownstone
+burdur beige marble
+caen stone
+calcarenite
+carbonatite
+catcastle
+chalk
+charnockite
+clay shale
+claystone
+clipsham stone
+clunch
+comblanchien
+conglomerate
+coquina
+corallian limestone
+corncockle
+cotswold stone
+czaple
+côte d'or
+dacite
+diabase
+diorite
+dolomite
+dunhouse blue
+dunhouse buff
+dunite
+dębnik
+eclogite
+elazig cherry marble
+emprador
+feldspathic sandstone
+flaggy limestone
+flint
+forest marble
+frosterley marble
+gabbro
+gneiss
+granite
+granodiorite
+greenschist
+greywacke
+hall dale
+haslingden flag
+heavitree stone
+hornfels
+i-type granite
+jerusalem stone
+ketton stone
+kielce
+kimberlite
+kośmin
+lamprophyre
+larvikite
+lava
+leucogranite
+limestone
+locharbriggs
+magnesian limestone
+marble
+marl
+marlstone
+marmara
+micrite
+migmatite
+monzogranite
+monzonite
+mud shale
+mudstone
+mugla white
+nasławice
+noche travertine
+norite
+obsidian
+obsidianite
+onyx
+oolite
+oolitic limestone
+peloidal limestone
+peperino
+peridotite
+phonolite
+pierre d'euville
+pierre de jaumont
+pietra serena
+porphyritic andesite
+porphyritic basalt
+porphyritic dacite
+porphyritic rhyolite
+porphyritic trachyte
+portland admiralty roach
+portland bowers basebed
+portland bowers lynham whitbed
+portland bowers saunders whitbed
+portland grove whitbed
+portland hard blue
+portland independent basebed
+portland independent bottom whitbed
+portland independent top whitbed
+portland new independent whitbed
+portland stone
+portoro buono
+przedborowa
+pumice
+purbeck marble
+pyroclastic rock
+quartz diorite
+quartz monzonite
+quartz sandstone
+quartzite
+radków
+rhyodacite
+rhyolite
+rudstone
+s-type granite
+sand shale
+sandstone
+schist
+scoria
+serpentinite
+shale
+siltstone
+silty shale
+skała
+skiddaw slate
+slate
+steatite
+stromatolites
+strzegom
+strzelin
+syenite
+syenogranite
+szczytna
+tephrite
+tezontle
+tonalite
+trachyandesite
+trachyte
+travertine
+tufa
+tuff
+tuffeau stone
+verde antico
+vesicular andesite
+vesicular basalt
+vesicular dacite
+vesicular rhyolite
+vesicular trachyte
+volcanic breccia
+volcanic glass
+welded tuff
+welsh slate
+yorkstone

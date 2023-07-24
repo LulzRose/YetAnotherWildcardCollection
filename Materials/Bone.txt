@@ -1,0 +1,15 @@
+Bone
+Bovine bone
+Buffalo bone
+Cow bone
+Deer antler
+Elephant ivory
+Hippopotamus ivory
+Horse bone
+Moose antler
+Narwhal ivory
+Pig bone
+Ram horn
+Sheep bone
+Walrus ivory
+Yak bone

@@ -1,0 +1,384 @@
+abachi
+abaci
+acacia
+african blackwood
+african ebony
+african mahogany
+african padauk
+afzelia
+agba
+alder
+alerce
+alpine ash
+american basswood
+american beech
+american birch
+american chestnut
+american elm
+american hophornbeam
+american hornbeam
+american mahogany
+american muskwood
+american red alder
+american sycamore
+american whitewood
+andaman marblewood
+apple
+araucaria
+arizona cypress
+ash
+ash wood
+aspen
+astronium
+atlantic white cedar
+australian blackwood
+australian oak
+australian red cedar
+ayan
+balau
+bald cypress
+balsa
+balsa wood
+balsam fir
+balsam poplar
+bamboo
+bamboo wood
+banglay
+basswood
+bead-tree
+beech
+bigleaf mahogany
+bigtooth aspen
+birch
+birch wood
+black alder
+black ash
+black birch
+black cherry
+black ironwood
+black locust
+black maple
+black poplar
+black spruce
+black tupelo
+black willow
+blackbean
+blackbutt
+bloodwood
+blue ash
+blue gum
+borneo ironwood
+bossé
+boxelder
+boxwood
+brazilian ironwood
+brazilian pine
+brazilian walnut
+brazilwood
+brown mallet
+buckeye
+bur oak
+butternut
+california bay laurel
+camphor tree
+canyon live oak
+cape chestnut
+carapa
+catalina ironwood
+catalpa
+cedar
+cedar wood
+celery-top pine
+ceylon ebony
+ceylon ironwood
+ceylon satinwood
+chamaecyparis
+cherry
+cherry wood
+chestnut
+chestnut oak
+chinese mahogany
+chinkapin oak
+coachwood
+coast douglas-fir
+coast redwood
+cocobolo
+common ash
+common walnut
+corkwood
+cottonwood
+cricket-bat willow
+cucumbertree
+cumaru
+cupressus
+cypress
+dark bosse
+dark red meranti
+desert ironwood
+diesel tree
+dogwood
+douglas fir
+douglas-fir
+downy birch
+eastern black oak
+eastern black walnut
+eastern cottonwood
+eastern hemlock
+eastern red cedar
+eastern white pine
+ebony
+ebène marbre
+elm
+elm wood
+engineered wood
+english elm
+english oak
+eucalyptus
+european aspen
+european birch
+european black pine
+european crabapple
+european larch
+european oak
+european pear
+european yew
+exotic wood
+fir
+fir wood
+flooded gum
+flowering dogwood
+genuine mahogany
+giant ironwood
+gonçalo alves
+gray birch
+green ash
+greenheart
+grenadilla
+grey ironbark
+guaiacwood
+guanandi
+gum
+gumbo limbo
+hackberry
+hardwood
+hemlock
+hickory
+hinoki cypress
+holywood
+honey locust
+hoop pine
+hornbeam
+horse-chestnut
+huon pine
+hybrid black poplar
+indian mahogany
+indian sandalwood
+indonesian mahogany
+ipe
+ipe wood
+ipê
+iroko
+ironwood
+jacarandá de brasil
+jacarandá-boca-de-sapo
+jack pine
+japanese larch
+japanese nutmeg-yew
+jarrah
+jatobá
+juniper
+karri
+kauri
+kingwood
+kosipo
+kwila
+lacewood
+larch
+laurel oak
+lawson's cypress
+lebombo ironwood
+light bosse
+light red meranti
+lignum vitae
+limba
+lime wood
+linden
+loblolly pine
+lodgepole pine
+london plane
+longleaf pine
+lyptus
+mahogany
+mahogany wood
+maple
+maple wood
+marblewood
+marri
+mediterranean cypress
+medium-density fiberboard
+meranti
+merbau
+monkey puzzle tree
+monterey pine
+mopane
+mountain ash
+mountain hemlock
+mountain mahogany
+mugga
+noble fir
+nootka cypress
+northern red oak
+northern silky oak
+northern white cedar
+norway spruce
+nuttall's oak
+oak
+oak wood
+ohio buckeye
+okoumé
+olive
+olive wood
+oregon ash
+oregon pine
+overcup oak
+pacific coast mahogany
+pacific dogwood
+pacific silver fir
+palmwood
+panga-panga
+paper birch
+paraná pine
+particle board
+pear
+pear tree
+pecan
+persian ironwood
+philippine mahogany
+pignut hickory
+pine
+pine wood
+pink ivory
+pitch pine
+plane tree
+plywood
+ponderosa pine
+poplar
+post oak
+prunus
+pumpkin ash
+purpleheart
+quaking aspen
+queensland kauri
+queensland maple
+queensland walnut
+radiata pine
+ramin
+reclaimed wood
+red alder
+red cedar
+red cherry
+red mahogany
+red maple
+red oak
+red pine
+red spruce
+redheart
+redwood
+rimu
+river red gum
+robinia pseudoacacia
+rock elm
+rocky mountain douglas-fir
+rosewood
+rubberwood
+sal
+sandalwood
+sapele
+sassafras
+satiné
+scots pine
+sequoia
+shagbark hickory
+shellbark hickory
+sheoak
+shortleaf pine
+silky oak
+silver birch
+silver fir
+silver maple
+silver wattle
+sipo
+sitka spruce
+slippery elm
+softwood
+sourwood
+southern live oak
+southern red oak
+southern sassafras
+southern yellow pine
+spanish cedar
+spanish elm
+spanish-cedar
+spruce
+spruce wood
+sugar maple
+sugar pine
+sugi
+swamp chestnut oak
+swamp cottonwood
+swamp mahogany
+swamp white oak
+sweet birch
+sweetgum
+sycamore maple
+sydney blue gum
+takian
+tallowwood
+tamarack
+tamboti
+taxodium
+teak
+teak wood
+thailand rosewood
+tiama
+tulip tree
+tulipwood
+tupelo
+turpentine
+walnut
+walnut wood
+wandoo
+water oak
+weeping willow
+wenge
+wenge wood
+west indies mahogany
+western hemlock
+western larch
+western red cedar
+western white pine
+white ash
+white basswood
+white elm
+white mahogany
+white oak
+white pine
+white spruce
+white willow
+wicker
+wild apple
+wild cherry
+wild oak
+wild pear
+willow
+willow oak
+wood
+wych elm
+yellow birch
+yellow buckeye
+yellow cedar
+yellow lapacho
+yew
+york gum
+zebrawood
+zingana

@@ -1,0 +1,30 @@
+alumina
+alumina-silica
+alumina-zirconia-silica
+barium titanate
+bioceramic
+biscuit
+bone china
+boron carbide
+carbon
+ceramic foam
+ceramic matrix composites
+cordierite
+earthenware
+ferrite
+fine bone china
+fired bricks
+glass ceramics
+kaolin
+magnesia-carbon
+mullite
+porcelain
+silicon
+silicon carbide
+silicon nitride
+steatite
+stoneware
+terra cotta
+titanium carbide
+tungsten carbide
+zirconia
