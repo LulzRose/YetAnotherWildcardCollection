@@ -5,6 +5,8 @@ Please dont ask me about the Avian file, I dont wanna see another bird ever agai
 
 Todo:
 
+-Instructions
+
 -Finish this Readme
 
 -Organize Prompts folder
