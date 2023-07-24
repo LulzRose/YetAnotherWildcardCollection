@@ -8,3 +8,5 @@ Todo:
 -Finish this Readme
 
 -Organize Prompts folder
+
+-Improve Naming Schema
