@@ -1,0 +1,53 @@
+Air Conditioner
+Air Purifier
+Blender
+Blow Dryer
+Coffee Maker
+Dehumidifier
+Dishwasher
+Dryer
+Electric Shaver
+Fan
+Food Processor
+Hair Dryer
+Hand Mixer
+Heater
+Humidifier
+Iron
+Jetson's Food-a-Rac-a-Cycle
+Kettle
+Microwave
+Oven
+Pressure Cooker
+Refrigerator
+Rice Cooker
+Robot Vacuum
+Slow Cooker
+Smart Blinds
+Smart Doorbell
+Smart Home Devices
+Smart Lights
+Smart Locks
+Smart Plugs
+Smart Speakers
+Smart Thermostats
+Smart TV
+Stand Mixer
+Stove
+The Auto-Dryer
+The Brain Extractor
+The Dehydrator
+The Flux Capacitor 
+The Food Fabricator
+The Hygienator 
+The Memory Eraser
+The Replicator
+The Shrink Ray
+The Time Turner
+The Transmogrifier
+The What-If Machine
+Thermostat
+Toaster
+Vacuum Cleaner
+Washing Machine
+Water Purifier

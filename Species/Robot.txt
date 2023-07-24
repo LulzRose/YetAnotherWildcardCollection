@@ -1,0 +1,71 @@
+android
+animatronic
+apex build koraidon
+arcee
+asimo
+atlas
+atronach
+automaton
+autonomous robot
+b-9
+battle droid
+baxter
+bipedal robot
+boston dynamics spot
+c-3po
+cleaning robot
+combat robot
+cyborg
+data
+droid
+drones
+epson hc-20
+evangelion \(cyborg\)
+ever-1
+exoskeleton
+flame atronach
+gakuten-oh
+hal 9000
+helper drone \(vader-san\)
+honda p2
+hrp-2
+humanoid robot
+i-fairy
+infested \(warframe\)
+jaxon
+kismet
+koraidon
+medabots \(models\)
+microbot
+military robot
+miraidon
+nanobot
+nao
+orb robot
+orisa \(overwatch\)
+pepper
+personal robot
+pr2
+protogen
+qrio
+quadruped robot
+r2-d2
+repliee q1
+robot
+sarcos guardian xo
+synth \(vader-san\)
+t-1000 terminator
+t-800 terminator
+t-850 terminator
+t-x terminator
+tasque
+tasque manager
+the iron giant
+the terminator
+toy robo wall-e
+ultimate mode miraidon
+vstone robovie r3
+wabian
+wall-e
+wowwee roboraptor
+zeno r25

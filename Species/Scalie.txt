@@ -1,0 +1,63 @@
+alligator
+alligatorid
+anaconda
+argonian
+axolotl
+bea santello
+blue anole
+boobsnake
+bush viper
+caiman
+california kingsnake
+chameleon
+cobra
+coral snake
+corn snake
+crocodile
+crocodile skink
+crocodilian
+crocodylid
+day gecko
+desert iguana
+feathered snake
+flap-necked chameleon
+frill-necked lizard
+frilled lizard
+frog
+gila monster
+grovyle
+hellbender
+iguana
+iguanid
+jacksons chameleon
+komodo dragon
+lizalfos
+lizard
+lizardfolk
+lizardman
+loch ness monster
+mamba
+milk snake
+mole salamander
+monitor lizard
+mr. snake \(the bad guys\)
+naga
+newt
+nile crocodile
+pit viper
+python
+python \(genus\)
+rattlesnake
+salamander
+salamander \(amphibian\)
+salandit
+salazzle
+saltwater crocodile
+satanic leaf-tailed gecko
+seviper
+skink
+snake
+tadpole
+turtle
+viper
+viper \(x-com\)

@@ -1,0 +1,14 @@
+bison
+cattle
+chief bogo
+cow
+gnu
+hereford cattle
+highland cattle
+holstein friesian cattle
+jersey cattle
+minotaur
+tauros
+true buffalo
+water buffalo
+yak

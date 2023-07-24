@@ -1,0 +1,131 @@
+7up
+alcohol
+amazake
+americano
+barley tea
+beer
+beer mug
+bellini
+black tea
+bloody mary
+blue hawaii
+bottle
+brandy
+bubble tea
+caesar (drink)
+cafe au lait
+calpis
+can
+canned coffee
+canned tea
+champagne
+champagne coupe
+champagne flute
+club soda
+coca-cola
+cocktail
+cocktail glass
+cocktail umbrella
+coffee
+coffee beans
+coffee cup
+coffee mug
+coffee pot
+coffee press
+cosmopolitan
+cup
+daiquiri
+dandelion coffee
+darjeeling tea
+dr pepper
+dr. pepper
+drinking glass
+earl grey tea
+fanta
+french 75
+fruit punch
+gatorade
+georgia max coffee
+gin
+gin fizz
+ginger ale
+gourd
+grape soda
+green tea
+guinness (beer)
+herbal tea
+hot chocolate
+hurricane
+hurricane glass
+iced tea
+jar
+jug
+juice
+juice box
+kamikaze
+latte art
+lemonade
+liquor
+long island iced tea
+long spout teapot
+mai tai
+manhattan
+margarita
+martini
+melon soda
+milk
+milk tea
+mojito
+monster
+mountain dew
+mug
+negroni
+non-alcoholic beer
+old fashioned
+orange juice
+orange soda
+pepsi
+pepsi ice cucumber
+pina colada
+powerade
+ramune
+red bull
+rob roy
+root beer
+rose hip tea
+rum
+rusty nail
+sakazuki
+sake
+sarsaparilla
+saucer
+sazerac
+shot glass
+side handle teapot
+sidecar
+smoothies
+snifter
+soda
+soda bottle
+soda can
+spear mint tea
+sprite
+starbucks
+tea
+tea set
+teacup
+teapot
+tequila
+thermos
+tom collins
+tonic water
+tropical drink
+vanilla cream soda
+vodka
+water
+whiskey
+whiskey sour
+white russian
+wine
+wine glass
+yunomi

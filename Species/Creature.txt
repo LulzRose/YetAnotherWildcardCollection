@@ -1,0 +1,68 @@
+blob creature
+bob-omb
+centaurs
+chain chomp
+crystal creature
+demon
+dragons
+dwarves
+elves
+evil spirit
+fire creature
+flora fauna
+floran
+flower creature
+flower mantis
+fungi fauna
+gem creature
+ghost
+gnomes
+goblins
+goo creature
+gryphons
+honey creature
+ice cream creature
+ice creature
+king
+knight
+lava creature
+living cloud
+living doll
+living inflatable
+living machine
+living pinata
+living sex doll
+magician
+mineral fauna
+minotaur
+object head
+ogres
+orcs
+patchwork creature
+pegasus
+phoenix
+phylakes
+piranha plant
+prince
+princess
+princess bubblegum
+queen
+rock creature
+rubber creature
+sea anemone
+siren
+snow creature
+snow golem
+sorceress
+sprite
+trolls
+unicorns
+valkyrie
+vampire
+warlock
+wax creature
+werewolf
+witches
+wizard
+wizards
+zombie

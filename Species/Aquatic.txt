@@ -1,0 +1,1181 @@
+abalone
+african glass catfish
+african lungfish
+aholehole
+airbreathing catfish
+airsac catfish
+alaska blackfish
+albacore
+alewife
+alfonsino
+algae eater
+alligator gar
+alligatorfish
+amberjack
+american sole
+ammonite
+amur pike
+anchovy
+anemone
+anemonefish
+angelfish
+angler
+angler catfish
+anglerfish
+antarctic cod
+antarctic icefish
+antenna codlet
+arapaima
+archerfish
+arctic char
+armored gurnard
+armored searobin
+armorhead
+armorhead catfish
+armoured catfish
+arowana
+arrowtooth eel
+asiatic glassfish
+atka mackerel
+atlantic bonito
+atlantic cod
+atlantic herring
+atlantic salmon
+atlantic saury
+atlantic sharpnose shark
+atlantic silverside
+australasian salmon
+australian grayling
+australian herring
+australian lungfish
+australian prowfish
+axolotl
+ayu
+baikal oilfish
+bala shark
+baleen whale
+ballan wrasse
+bamboo shark
+banded killifish
+bandfish
+bangus
+banjo
+banjo catfish
+barb
+barbel
+barbel-less catfish
+barbeled dragonfish
+barbeled houndshark
+barfish
+barnacle
+barracuda
+barracudina
+barramundi
+barred danio
+barreleye
+basking shark
+bass
+basslet
+bat ray
+batfish
+beachsalmon
+beaked salmon
+beaked sandfish
+beardfish
+beluga
+beluga sturgeon
+beluga whale
+bengal danio
+betta
+bichir
+bicolor goat fish
+bigeye
+bigeye squaretail
+bighead carp
+bigmouth buffalo
+bigscale
+bigscale pomfret
+billfish
+bitterling
+black angelfish
+black bass
+black dragonfish
+black mackerel
+black mamba
+black neon tetra
+black scabbardfish
+black scalyfin
+black sea bass
+black swallower
+black tetra
+black triggerfish
+blackchin
+blackfin tuna
+blackfish
+blacktip reef shark
+blacktip shark
+bleak
+blenny
+blind goby
+blind shark
+blobfish
+blowfish
+blue catfish
+blue danio
+blue eye trevalla
+blue gourami
+blue shark
+blue triggerfish
+blue whale
+blue whiting
+blue-redstripe danio
+bluefin tuna
+bluefish
+bluegill
+bluntnose knifefish
+bluntnose minnow
+boafish
+boarfish
+bobtail snipe eel
+bocaccio
+boga
+bombay duck
+bonefish
+bonito
+bonnethead shark
+bonnetmouth
+bonytail
+bonytongue
+bottlenose dolphin
+bowfin
+boxfish
+bramble shark
+bream
+brill
+bristlemouth
+bristlenose catfish
+broadband dogfish
+bronze corydoras
+brook lamprey
+brook stickleback
+brook trout
+brotula
+brown trout
+buffalo fish
+buizel
+bull shark
+bull trout
+bullhead
+bullhead shark
+bumblebee goby
+burbot
+buri
+burma danio
+burrowing goby
+butterfish
+butterfly ray
+butterflyfish
+california flyingfish
+california halibut
+canary rockfish
+candiru
+candlefish
+capelin
+cardinal tetra
+cardinalfish
+carp
+carpet shark
+carpetshark
+carpsucker
+cat shark
+catalufa
+catfish
+catla
+cavefish
+celebes rainbowfish
+central mudminnow
+chain pickerel
+channel bass
+channel catfish
+char
+cherry salmon
+cherubfish
+chimaera
+chinook salmon
+chub
+chubsucker
+chum salmon
+cichlid
+cisco
+clam
+climbing catfish
+climbing gourami
+climbing perch
+clingfish
+clown loach
+clown triggerfish
+clownfish
+cobbler
+cobia
+cod
+codlet
+codling
+coelacanth
+coffinfish
+coho salmon
+coley
+collared carpetshark
+collared dogfish
+colorado squawfish
+combfish
+combtail gourami
+combtooth blenny
+commersons dolphin
+common carp
+common dolphin
+common tunny
+conger eel
+convict blenny
+convict cichlid
+cookie-cutter shark
+coolie loach
+coral
+cornetfish
+cow shark
+cowfish
+cownose ray
+crab
+crappie
+crayfish
+creek chub
+crestfish
+crevice kelpfish
+croaker
+crocodile icefish
+crocodile shark
+crucian carp
+cthulhu
+cuckoo wrasse
+cusk
+cusk-eel
+cutlassfish
+cutthroat eel
+cutthroat trout
+cuttlefish
+cymothoa exigua
+dab
+dace
+daggertooth pike conger
+damselfish
+danio
+darter
+dartfish
+dealfish
+death valley pupfish
+deep sea eel
+deep sea smelt
+deepwater cardinalfish
+deepwater flathead
+deepwater stingray
+delta smelt
+demoiselle
+denticle herring
+desert pupfish
+devario
+devil ray
+dhufish
+discus
+dogfish
+dogfish shark
+dogteeth tetra
+dojo loach
+dolly varden trout
+dolphin
+dolphin fish
+dorab wolf-herring
+dorado
+dory
+dottyback
+dragon goby
+dragonair
+dragonet
+dragonfish
+driftfish
+driftwood catfish
+drum
+duckbill
+duckbill eel
+dunkleosteus
+dusky grouper
+dusky shark
+dwarf gourami
+dwarf loach
+eagle ray
+earthworm eel
+edestus
+eel
+eel cod
+eel-goby
+eelpout
+eeltail catfish
+elasmobranch
+electric catfish
+electric eel
+electric knifefish
+electric ray
+elephant fish
+elephantnose fish
+elver
+ember parrotfish
+emerald catfish
+emperor
+emperor angelfish
+emperor bream
+escolar
+eucla cod
+eulachon
+european chub
+european eel
+european flounder
+european minnow
+european perch
+false brotula
+false cat shark
+false moray
+false trevally
+fangtooth
+fathead sculpin
+featherback
+fierasfer
+filefish
+finback cat shark
+fingerfish
+fire bar danio
+fire goby
+firefish
+fish
+flabby whale fish
+flagblenny
+flagfin
+flagfish
+flagtail
+flashlight fish
+flatfish
+flathead
+flathead catfish
+flier
+floatzel
+flounder
+flying fish
+flying gurnard
+footballfish
+forehead brooder
+four-eyed fish
+french angelfish
+freshwater eel
+freshwater hatchetfish
+freshwater shark
+frigate mackerel
+frilled shark
+frogfish
+frogmouth catfish
+furred shark
+fusilier fish
+galjoen fish
+ganges shark
+gar
+garden eel
+garibaldi
+garpike
+ghost fish
+ghost flathead
+ghost knifefish
+ghost pipefish
+ghost shark
+ghoul
+giant clam
+giant danio
+giant gourami
+giant octopus
+giant sea bass
+giant squid
+gibberfish
+gila trout
+gizzard shad
+glass catfish
+glass knifefish
+glassfish
+glaucus atlanticus
+glowlight danio
+goatfish
+goblin shark
+goby
+golden dojo
+golden loach
+golden shiner
+golden trout
+goldeye
+goldfish
+gombessa
+goosefish
+gopher rockfish
+gourami
+grass carp
+graveldiver
+gray mullet
+gray reef shark
+grayling
+great white shark
+green spotted puffer
+green swordtail
+greeneye
+greenland shark
+greenling
+grenadier
+ground shark
+grouper
+grunion
+grunt
+grunt sculpin
+grunter
+gudgeon
+guitarfish
+gulf menhaden
+gulper
+gulper eel
+gunnel
+guppy
+gurnard
+haddock
+hagfish
+hairtail
+hake
+halfbeak
+halfmoon
+halibut
+halosaur
+hamlet
+hammerhead shark
+hammerjaw
+handfish
+hardhead catfish
+harelip sucker
+hatchetfish
+hawkfish
+helicoprion
+hermit crab
+herring
+herring smelt
+hickory shad
+hillstream loach
+hippocampus
+hog sucker
+hoki
+horn shark
+horsefish
+horseshoe crab
+houndshark
+huchen
+humpback whale
+humuhumunukunukuapua'a
+hussar
+hydra
+icefish
+ide
+ilish, hilsha
+inanga
+inconnu
+inteleon
+isopod
+jack
+jack dempsey
+jackfish
+japanese eel
+javelin
+jawfish
+jellyfish
+jellynose fish
+jewel tetra
+jewelfish
+jewfish
+john dory
+kafue pike
+kahawai
+kaluga
+kanyu
+kelp perch
+kelpfish
+killer whale
+killifish
+king of the herrings
+king shark
+king-of-the-salmon
+kingfish
+kissing gourami
+knifefish
+knifejaw
+koi
+kokanee
+kokopu
+komodo dragon
+kraken
+kuhli loach
+labyrinth fish
+ladyfish
+lake chub
+lake trout
+lake whitefish
+lampfish
+lamprey
+lancetfish
+lanternfish
+lapras
+largemouth bass
+leaffish
+leafy seadragon
+leatherback turtle
+leatherjacket
+lefteye flounder
+lemon shark
+lemon sole
+lemon tetra
+lenok
+leopard danio
+leopard eel
+leopard seal
+leviathan
+lightfish
+limia
+lined sole
+ling
+ling cod
+lionfish
+livebearer
+lizardfish
+loach
+loach catfish
+loach goby
+loach minnow
+lobster
+loggerhead sea turtle
+long-finned char
+long-finned pike
+long-finned sand diver
+long-whiskered catfish
+longfin
+longfin dragonfish
+longfin escolar
+longfin smelt
+longjaw mudsucker
+longneck eel
+longnose chimaera
+longnose dace
+longnose lancetfish
+longnose sucker
+longnose whiptail catfish
+loosejaw
+lost river sucker
+louvar
+loweye catfish
+luderick
+luminous hake
+lumpsucker
+lungfish
+mackerel
+mackerel shark
+madtom
+mahi-mahi
+mahseer
+mail-cheeked fish
+mako shark
+man-of-war fish
+mandarinfish
+manefish
+manta ray
+marblefish
+marine hatchetfish
+marlin
+masu salmon
+medaka
+medusafish
+megalodon
+megamouth shark
+menhaden
+merluccid hake
+mermaid
+mexican golden trout
+midshipman fish
+milkfish
+minnow
+minnow of the deep
+modoc sucker
+mojarra
+mola mola
+monkeyface prickleback
+monkfish
+mooneye
+moonfish
+moorish idol
+mora
+moray eel
+morid cod
+morwong
+moses sole
+mosquitofish
+mouthbrooder
+mozambique tilapia
+mr. shark \(the bad guys\)
+mrigal
+mud catfish
+mud minnow
+mudfish
+mudskipper
+mudsucker
+mullet
+mummichog
+murray cod
+muskellunge
+mustache triggerfish
+mustard eel
+naked-back knifefish
+narwhal
+nase
+needlefish
+neon tetra
+nessie
+new world rivuline
+new zealand sand diver
+new zealand smelt
+nibble fish
+noodlefish
+north american darter
+north american freshwater catfish
+north pacific daggertooth
+northern anchovy
+northern clingfish
+northern lampfish
+northern pike
+northern sea robin
+northern squawfish
+northern stargazer
+notothen
+nurse shark
+nurseryfish
+oarfish
+ocean perch
+ocean sunfish
+oceanic whitetip shark
+octopus
+octopus beast
+octopus kraken
+oilfish
+old world knifefish
+oldwife
+olive flounder
+opah
+opaleye
+orange roughy
+orangespine unicorn fish
+orangestriped triggerfish
+orbicular batfish
+orbicular velvetfish
+orca
+orchid mantis
+oregon chub
+orfe
+oriental loach
+oscar
+otter
+owens pupfish
+oyster
+pacific albacore
+pacific cod
+pacific hake
+pacific herring
+pacific lamprey
+pacific salmon
+pacific saury
+pacific trout
+pacific viperfish
+paddlefish
+pancake batfish
+panga
+paradise fish
+parasitic catfish
+parore
+parrotfish
+peacock flounder
+peamouth
+pearl danio
+pearl perch
+pearleye
+pearlfish
+pelagic cod
+pelican eel
+pelican gulper
+pencil catfish
+pencilfish
+pencilsmelt
+peppered corydoras
+perch
+peters elephantnose fish
+pickerel
+pigfish
+pike
+pike conger
+pike eel
+pikeblenny
+pikeperch
+pilchard
+pilot fish
+pineapplefish
+pineconefish
+pink salmon
+pinniped
+pipefish
+piranha
+pirarucu
+pirate perch
+plaice
+platy
+platyfish
+pleco
+plownose chimaera
+poacher
+pollock
+pollyfish
+pomfret
+pompano
+pompano dolphinfish
+ponyfish
+popeye catalufa
+porbeagle shark
+porcupinefish
+porgy
+port jackson shark
+powen
+prickleback
+pricklefish
+prickly shark
+primarina
+prowfish
+puffer fish
+pufferfish
+pumpkinseed
+pupfish
+pygmy sunfish
+píntano
+queen danio
+queen parrotfish
+queen triggerfish
+quillback
+quillfish
+rabbitfish
+raccoon butterfly fish
+ragfish
+rainbow trout
+rainbowfish
+rasbora
+ratfish
+rattail
+ray
+rays
+razor the shark
+razorback sucker
+razorfish
+red grouper
+red salmon
+red snapper
+red velvetfish
+red whalefish
+redfin perch
+redfish
+redhorse sucker
+redlip blenny
+redmouth whalefish
+redtooth triggerfish
+reedfish
+reef shark
+reef triggerfish
+regal blue tang
+remora
+requiem shark
+ribbon eel
+ribbon sawtail fish
+ribbonfish
+rice eel
+ricefish
+ridgehead
+riffle dace
+righteye flounder
+rio grande perch
+river dolphin
+river loach
+river shark
+river stingray
+rivuline
+roach
+roanoke bass
+rock bass
+rock beauty
+rock cod
+rocket danio
+rockfish
+rockling
+rockweed gunnel
+rohu
+ronquil
+roosterfish
+ropefish
+rough scad
+rough sculpin
+roughy
+round herring
+round stingray
+round whitefish
+roundhead
+rudd
+rudderfish
+ruffe
+russian sturgeon
+sabalo
+saber-toothed blenny
+sabertooth
+sabertooth fish
+sablefish
+sacramento blackfish
+sacramento splittail
+sailfin silverside
+sailfish
+salamanderfish
+salmon
+salmon shark
+samurott
+sand dab
+sand diver
+sand eel
+sand goby
+sand knifefish
+sand lance
+sand stargazer
+sand tiger
+sand tilefish
+sandbar shark
+sandburrower
+sandfish
+sandperch
+sandroller
+sarcastic fringehead
+sardine
+sargassum fish
+sauger
+saury
+saw shark
+sawfish
+sawtooth eel
+scabbard fish
+scaly dragonfish
+scat
+scissortail rasbora
+scorpionfish
+sculpin
+scup
+sea anemone
+sea bass
+sea bream
+sea catfish
+sea chub
+sea cucumber
+sea devil
+sea dragon
+sea horse
+sea lamprey
+sea raven
+sea serpent
+sea slug
+sea snail
+sea toad
+sea turtle
+sea urchin
+seahorse
+seal
+seamoth
+searobin
+sergeant major
+sevan trout
+shad
+shark
+shark puppy
+sharksucker
+sharpnose puffer
+sheatfish
+sheepshead
+sheepshead minnow
+shiner
+shortnose chimaera
+shortnose sucker
+shovelnose sturgeon
+shrimp
+shrimpfish
+siamese fighting fish
+sillago
+silver carp
+silver dollar
+silver dory
+silver hake
+silverside
+silvertip tetra
+sind danio
+siren
+sixgill ray
+sixgill shark
+skate
+skilfish
+skipjack tuna
+sleeper
+sleeper shark
+slender mola
+slender snipe eel
+slickhead
+slimehead
+slimy mackerel
+slimy sculpin
+slipmouth
+smalleye squaretail
+smalltooth sawfish
+smelt
+smelt-whiting
+smooth dogfish
+snailfish
+snake eel
+snake mackerel
+snakehead
+snapper
+snipe eel
+snipefish
+snook
+snubnose eel
+snubnose parasitic eel
+sockeye salmon
+soldierfish
+sole
+south american darter
+south american lungfish
+southern dolly varden
+southern flounder
+southern hake
+southern sandfish
+southern smelt
+spadefish
+spaghetti eel
+spanish mackerel
+spearfish
+speckled trout
+sperm whale
+spiderfish
+spikefish
+spinefoot
+spiny basslet
+spiny dogfish
+spiny dwarf catfish
+spiny eel
+spinyfin
+splitfin
+sponge
+spookfish
+spottail pinfish
+spotted climbing perch
+spotted danio
+sprat
+springfish
+squarehead catfish
+squaretail
+squawfish
+squeaker
+squid
+squid giant
+squirrelfish
+staghorn sculpin
+starfish
+stargazer
+starry flounder
+steelhead
+stickleback
+stingfish
+stingray
+stonecat
+stonefish
+stoneroller minnow
+stream catfish
+striped bass
+striped burrfish
+striped dolphin
+sturgeon
+sucker
+suckermouth armored catfish
+summer flounder
+sundaland noodlefish
+sunfish
+surf sardine
+surfperch
+surgeonfish
+swallower
+swamp-eel
+swampfish
+sweeper
+swordfish
+swordtail
+tadpole cod
+tadpole fish
+tailor
+taimen
+tang
+tapetail
+tarpon
+tarwhine
+telescopefish
+temperate bass
+temperate ocean-bass
+temperate perch
+tench
+tenpounder
+tenuis
+tetra
+thornfish
+thorny catfish
+thread-tail
+threadfin
+threadfin bream
+three spot gourami
+three-toothed puffer
+threespine stickleback
+thresher shark
+tidewater goby
+tiger barb
+tiger shark
+tiger shovelnose catfish
+tigerperch
+tilapia
+tilefish
+titan triggerfish
+toadfish
+tommy ruff
+tompot blenny
+tonguefish
+toothed whale
+tope
+topminnow
+torpedo
+torrent catfish
+torrent fish
+tortoise
+trahira
+treefish
+trevally
+triggerfish
+triplefin blenny
+triplespine
+tripletail
+tripod fish
+trout
+trout cod
+trout-perch
+trumpeter
+trumpetfish
+trunkfish
+tube-eye
+tube-snout
+tubeblenny
+tubeshoulder
+tui chub
+tuna
+turbot
+turtle
+turtle sea
+two spotted goby
+uaru
+unicorn fish
+upside-down catfish
+vanjaram
+velvet belly lanternshark
+velvet catfish
+velvetfish
+vendace
+vermilion snapper
+vimba
+viperfish
+wahoo
+walking catfish
+wallago
+walleye
+walleye pollock
+walrus
+walu
+warmouth
+warty angler
+waryfish
+waspfish
+weasel shark
+weatherfish
+weever
+weeverfish
+wels catfish
+whale
+whale catfish
+whale shark
+whalefish
+whiff
+white croaker
+white marlin
+white shark
+whitebait
+whitefish
+whitetip reef shark
+whiting
+wobbegong
+wolf-eel
+wolf-herring
+wolffish
+worm eel
+wormfish
+wrasse
+wrymouth
+x-ray tetra
+yellow bass
+yellow jack
+yellow moray
+yellow perch
+yellow tang
+yellow weaver
+yellow-and-black triplefin
+yellow-edged moray
+yellow-eye mullet
+yellowback fusilier
+yellowbanded perch
+yellowedge grouper
+yellowfin croaker
+yellowfin cutthroat trout
+yellowfin grouper
+yellowfin pike
+yellowfin surgeonfish
+yellowfin tuna
+yellowhead jawfish
+yellowmargin triggerfish
+yellowtail
+yellowtail amberjack
+yellowtail barracuda
+yellowtail catfish
+yellowtail clownfish
+yellowtail horse mackerel
+yellowtail kingfish
+yellowtail snapper
+zander
+zebra bullhead shark
+zebra danio
+zebra lionfish
+zebra loach
+zebra oto
+zebra pleco
+zebra shark
+zebra tilapia
+zebrafish

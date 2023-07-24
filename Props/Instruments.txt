@@ -1,0 +1,34 @@
+Accordion
+Banjo
+Bass Guitar
+Bassoon
+Bongos
+Castanets
+Cello
+Clarinet
+Congas
+Cymbals
+Djembe
+Drums
+Flute
+French Horn
+Guitar
+Harmonica
+Harp
+Mandolin
+Maracas
+Marimba
+Oboe
+Piano
+Saxophone
+Snare Drum
+Steel Drums
+Tambourine
+Triangle
+Trombone
+Trumpet
+Ukulele
+Vibraphone
+Viola
+Violin
+Xylophone

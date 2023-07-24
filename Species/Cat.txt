@@ -1,0 +1,160 @@
+# originally sourced from https://github.com/dariusk/corpora/blob/master/data/animals/cats.json
+abyssinian
+abyssinian cat
+aegean
+african golden cat
+alolan meowth
+american bobtail
+american curl
+american shorthair
+american wirehair
+andean mountain cat
+arabian mau
+asian
+asian semi-longhair
+australian mist
+balinese
+bambino
+bengal
+bengal cat
+birman
+bombay
+bombay cat
+brazilian shorthair
+british longhair
+british semi-longhair
+british shorthair
+burmese
+burmilla
+caitian
+calico cat
+california spangled
+caracal
+cat
+cattail \(pvz\)
+chakat
+chantilly-tiffany
+chartreux
+chausie
+cheetoh
+chinese mountain cat
+clank \(ratchet and clank\)
+colorpoint shorthair
+cornish rex
+cougar
+cymric
+cyprus
+devon rex
+dewott
+donskoy
+dragon li
+dwarf cat
+egyptian cat
+egyptian mau
+european burmese
+european shorthair
+exceed
+exotic
+exotic shorthair
+felyne
+flora \(twokinds\)
+foldex
+german rex
+glameow
+hairless cat
+havana brown
+highlander
+himalayan
+hrothgar
+japanese bobtail
+javanese
+katia managan
+khao manee
+korat
+korean bobtail
+korn ja
+kurilian bobtail
+laperm
+linsang
+litten
+lykoi
+mae borowski
+maine coon
+manx
+mekong bobtail
+meowth
+mew \(pokemon\)
+minskin
+miqo'te
+munchkin
+napoleon
+nebelung
+nekomata
+norwegian forest cat
+ocicat
+ojos azules
+oregon rex
+oriental
+oriental bicolor
+oriental longhair
+oriental shorthair
+palico
+panthera
+perfold
+persian
+persian (modern)
+persian (traditional)
+persian cat
+peterbald
+pixie-bob
+purrloin
+pyroar
+raas
+ragamuffin
+ragdoll
+ragdoll (cat)
+ragdoll cat
+ring-tailed cat
+rivet \(ratchet and clank\)
+rubbercat
+russian blue
+russian white, black and tabby
+rusty-spotted cat
+sam sawet
+sand cat
+savannah
+savannah cat
+scottish fold
+selkirk rex
+serengeti
+serrade petit
+siamese
+siamese cat
+siamese fighting fish
+siberian
+siberian cat
+singapura
+snowshoe
+sokoke
+somali
+somali cat
+sparklecat
+sphynx
+sphynx \(cat\)
+sprigatito
+suphalak
+tabaxi
+tabby cat
+tabby slime
+thai
+thai lilac
+tiffanie
+tonkinese
+toyger
+turkish angora
+turkish van
+tuxedo cat
+ukrainian levkoy
+wildcat
+zangoose
+zeraora

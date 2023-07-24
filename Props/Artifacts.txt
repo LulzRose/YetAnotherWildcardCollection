@@ -1,0 +1,101 @@
+amulet
+amulet of kings
+antique
+apple of eden
+atma weapon
+auric amulet
+banesphere
+banknote
+black crystal
+bone
+book
+bowl
+bust
+chaos drive
+chaos emeralds
+chaos stones
+chaos vortex
+charm
+claw of chthon
+codex
+coin
+collectible
+crystal of the frostburn
+crystal skulls
+curio
+dagger
+dark sphere
+document
+engine
+eye of sauron
+eye of the beholder
+fable iii seeker's age
+fossil
+frostburn fragment
+globe of discord
+heart of the ocean
+heart of tiamat
+helm of awe
+infinity stones
+instrument
+jar
+jewelry
+key to time
+lifestone
+lunar harp
+machine
+manuscript
+map
+mask
+master sword
+medal
+megaton hammer
+memorabilia
+mjolnir
+mummy
+necronomicon
+one ring
+oracle bone
+orb of ooze
+pendant
+pendants of lifestone
+phoenix down
+plaque
+pottery
+power crystal
+relic
+relic of kyosho
+rug
+rune stones
+sanctuary guardian
+scepter of the shifting sands
+script
+scroll
+shard of arcane missiles
+shard of the exodar
+shard of the flames
+shard of the gods
+shard of the habishi
+shard of the mysterious island
+shard of the watchers
+shard of xol'akrad
+shield
+skeleton
+souvenir
+sphere of annihilation
+stamp
+sword
+talisman
+talismans of shintao
+tapestry
+tarot card
+timepiece
+tool
+totem
+triforce
+trinket
+trophy
+unified rune matrix
+urn
+vase
+worldstone

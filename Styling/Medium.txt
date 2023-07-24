@@ -1,0 +1,299 @@
+1koma
+2d animation
+2d digital paintings
+2d \(artwork\)
+2koma
+3d
+3d animation
+3d digital paintings
+3d path tracing
+3d ray tracing
+3d renderings
+3d sculpting
+3d \(artwork\)
+3koma
+4koma
+5koma
+abstract
+absurdres
+acrylic art
+acrylic marbling art
+acrylic paint (medium)
+acrylic painting \(artwork\)
+acrylic paints
+acrylic pour
+airbrush (medium)
+airbrush art
+album cover
+alcohol ink
+algorithmic art
+animated
+animated gif
+animated png
+anime
+anime screencap
+aquatint
+archived file
+art deco
+art nouveau
+artbook
+ascii art
+assemblage
+ballpoint pen (medium)
+batik
+black and white negative film
+board game
+borderless panels
+botanical drawing
+brush (medium)
+calendar (medium)
+calligraphy brush (medium)
+canvas (medium)
+card (medium)
+cartoon
+chalk (medium)
+chalk art
+chalks
+character doll, figure, kotobukiya
+character sheet, reference sheet
+character single
+charcoal (medium)
+charcoal drawing
+charcoal \(artwork\)
+charcoals
+children’s drawing
+claymation
+collage
+color ink (medium)
+color negative film
+color pencils
+colored pencil (medium)
+colored pencil \(artwork\)
+colored pencil \(medium\)
+coloring book style
+comic
+composition kandinsky
+concept artist
+corrupted file
+coupy pencil (medium)
+cover
+cover page
+crayon (medium)
+crayon \(artwork\)
+cyanotype
+dada collage
+daguerrotype
+data-moshing
+demoscene
+detailed painting
+digital collage
+digital drawing \(artwork\)
+digital illustration
+digital matte paintings
+digital media \(artwork\)
+digital painting \(artwork\)
+digital paintings
+diorama
+done in lego
+doujin cover
+dvd cover
+dynamic paintings
+easytoon
+en plein air
+encaustic
+eromanga
+etched metal
+etched stone
+etching
+fake cover
+fake screenshot
+fashion editorial
+faux traditional media
+figures, doll
+fine art parody
+flame painter
+flash
+fractal art
+fresco
+game cg
+generative art
+gouache (medium)
+gouache painting
+gouache \(artwork\)
+graphite (medium)
+graphite pencils
+graphite \(artwork\)
+graphite \(medium\)
+gyotaku (medium)
+has artifacted revision
+has bad revision
+has censored revision
+has cropped revision
+has downscaled revision
+has lossy revision
+has watermarked revision
+highres
+hyper paint
+icon
+illustration
+impasto
+impressionism
+incredibly absurdres
+ink (medium)
+ink and pen
+ink drawing
+ink wash painting, sumi-e
+integrated arts
+isometric
+isotype
+kirigami
+left-to-right manga
+ligne claire
+limited palette
+lineart
+linocut
+liquid ink
+list of style parodies
+live2d
+logo
+looping animation
+low poly
+lowres
+magazine cover
+manga
+manga cover
+marker (medium)
+marker \(artwork\)
+marker \(medium\)
+matte background
+matte drawing
+matte painting
+matte paintings
+megami magazine
+millipen (medium)
+miniature
+minimalism
+mixed media
+mixed-medium arts
+mosaic
+mosaic art
+movie poster
+multiple 4koma
+music video
+nib pen (medium)
+nihonga
+no lineart
+non-repeating animation
+oekaki
+official art
+official wallpaper
+oil on canvas
+oil painting (medium)
+oil painting \(artwork\)
+oil paints
+optical illusion
+outline
+painting (medium)
+painting \(artwork\)
+painting \(medium\)
+paper child
+paper cut out
+paper cutout
+paper cutting
+paper puppets
+papercraft
+pastel (medium)
+pastel \(artwork\)
+pastels
+patchwork
+pattachitra
+pen \(artwork\)
+pencil sketch
+pencil \(artwork\)
+petroglyph
+phonecard
+photo
+photocollage
+photocopy
+photography \(artwork\)
+photomosaic
+photorealistic
+pietra dura
+pixel art
+pixel \(artwork\)
+plastic models
+play-doh
+posca
+postcard
+poster
+poster art
+propaganda poster
+psx graphics
+quilling
+raster paintings
+real life
+realistic
+retro graphics
+revision
+right-to-left comic
+risograph
+roulette animation
+sand painting
+scan
+scrapbooking
+sculpture \(artwork\)
+shitajiki
+silent comic
+silhouette
+sketch
+sketch, thick outlines, black and white
+slide film
+soviet poster
+speedpainting
+splash art
+stained glass
+sticker
+style parody
+sumi-e
+surreal
+tall image
+tarot
+tarot card
+tarot cards
+tattoo
+technical drawing
+tegaki
+tempera
+tempera (medium)
+terrarium
+tileable
+traditional media
+traditional media \(artwork\)
+transparent background
+triptych (art)
+trompe-l'œil
+ukiyo-e
+unfinished
+vector art
+vector trace
+video
+video game cover
+vincent van gogh
+voxel
+voxel art
+wallpaper forced
+war poster, propaganda poster, wwii poster
+watercolor
+watercolor (medium)
+watercolor pencil (medium)
+watercolor \(artwork\)
+watercolor \(medium\)
+watercolors
+watercolour
+wide image
+widescreen
+woodblock
+woodblock print
+woodcut
+x-ray photography
+zentangle

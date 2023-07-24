@@ -1,0 +1,55 @@
+amblypygi
+ant
+arachnid
+arthropod
+bee
+beetle
+blue morpho
+bumble bee \(species\)
+butterfly
+camel spider
+caterpillar
+cave cricket
+cecropia moth
+centipede
+cicada
+cockroach
+crayfish
+cricket
+dragonfly
+fireflies
+firefly
+fly
+grasshopper
+honey bee
+hornet
+hornet \(hollow knight\)
+jumping spider
+ladybug
+larva
+lepidopteran
+leucochloridium paradoxum
+lobster
+maggot
+mantis
+mantis shrimp
+millipede
+monarch butterfly
+mosquito
+moth
+mothman
+muffet
+myriapod
+pillbug
+protagonist \(hollow knight\)
+queen bee
+scolipede
+scorpion
+shrimp
+spider
+spider wasp
+tarantula
+tarantula hawk wasp
+venipede
+wasp
+whirlipede

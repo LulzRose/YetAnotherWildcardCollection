@@ -1,0 +1,9 @@
+male
+female
+intersex
+trans
+trans woman
+trans man
+nonbinary
+herm
+gynomorph

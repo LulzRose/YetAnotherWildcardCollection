@@ -1,0 +1,250 @@
+128-bit style graphics
+12k resolution
+16-bit
+16-bit style graphics
+16k 3d
+16k resolution
+1ms shutter speed
+20 megapixels
+256-bit style graphics
+2d sprite
+2k resolution
+32-bit style graphics
+32k resolution
+3840x2160
+3d
+4k
+4k resolution
+64-bit style graphics
+8-bit style graphics
+8k
+8k 3d
+8k resolution
+8k resolution / 16k resolution
+absurd res
+acid colors
+aerial photograph
+aesthetic
+airbrush
+ambient lighting
+ambient occlusion
+amiga style graphics
+anti-aliasing
+artstation
+atari 2600 style graphics
+atari 7800 style graphics
+atari jaguar style graphics
+atmospheric
+augmented reality
+award-winning
+back lighting
+backlight
+beautiful
+beautifully lit
+bioluminiscent
+biomorphic
+biophilic
+bitmap
+blocky
+blu-ray
+bokeh
+bounding volume hierarchy (bvh)
+bryce 3d
+candle light
+cel shading
+chromatic abberation
+chromatic aberration
+cinema 4d
+cinematic light
+cinematic lighting
+commodore 64 style graphics
+contest winner
+crisp
+cryengine
+crystallized
+cubic
+dark
+de-pixelated
+dehazed
+depth of field
+desaturated
+detailed
+digital painting
+direct lighting
+dof
+double exposure
+dramatically lit
+dreamcast style graphics
+dynamic composition
+dynamic lighting
+dystopian
+eldritch
+elegant
+eye strain
+f 2.8 lens
+faceted
+feline
+flat shading
+fluo colors
+foreboding
+furry
+fxaa
+gamecube style graphics
+geometric
+glass
+global illumination
+golden hour
+gpu (graphics processing unit)
+hallucinogenic
+hardware acceleration
+hd
+hd-dvd
+hdr
+hdr rendering
+hi res
+high chroma
+high contrast
+high definition
+high resolution
+high-res
+highly detailed
+hq
+hyper detailed
+hyper realistic
+hypermaximalist
+hypomorphic
+indirect illumination
+infectious
+insanely detailed and intricate
+intricate
+intricate artwork
+iridescence
+isometric
+kaleidoscopic
+light propagation volumes (lpvs)
+lighting
+lomo effect
+long exposure
+low contrast
+low-poly
+low-res
+lumen global illumination
+macabre
+manhattan distance
+marbling
+masterpiece
+matte
+maya
+messy
+metallic
+microdisplacement
+microscopic
+monochromatic
+moody lighting
+motion capture
+multiracial
+nanite geometry
+nebulous
+nes style graphics
+nintendo 64 (n64) style graphics
+nvidia rtx
+octane
+octane render
+oily
+ornate
+overgrown
+path traced
+path tracing
+pbr material
+phong shading
+photon mapping
+photorealistic
+physically based rendering (pbr)
+pixelated
+pixellated
+polarized light
+polygonal
+post processed
+powerful
+primary colors
+prismatic
+procedural
+procedural generation
+procedural texture
+professional photoshoot
+ps1 style graphics
+ps2 style graphics
+ps3 style graphics
+ps4 style graphics
+ps5 style graphics
+radiant
+raster graphics
+rasterization
+rasterized
+ray traced
+ray tracing
+reflection
+refraction
+rendered with blender
+retina display
+rtx
+rtx (real-time ray tracing)
+screen space ambient occlusion
+sega genesis style graphics
+sepia
+sfumato
+shaded
+shader
+shadows
+sharp focus
+shot on nikon d750
+simplified
+skeletal animation
+sketchfab
+sketchup
+skybox
+smooth
+smooth gradients
+snes style graphics
+soft shaded
+sony playstation vita style graphics
+sony psp style graphics
+splash art
+studio quality
+stunning
+stylized
+super detailed
+super sharp
+super wide angle
+superabsurd res
+switch style graphics
+terrain rendering
+tesselation
+textured
+tilt-shift
+ultra hd
+ultrafine detail
+unimaginable beauty
+unreal engine
+v-ray
+vector graphics
+vibrant color scheme
+virtual reality
+volumetric lighting
+voronoi manhattan
+voronoi minkowski
+voxel
+voxel engine
+voxel geometry
+voxel-based
+voxelated
+vray tracing
+wii style graphics
+wii u style graphics
+wireframe model
+wireframe rendering
+xbox 360 style graphics
+xbox one style graphics
+xbox series s style graphics
+xbox series x style graphics
+xbox style graphics
