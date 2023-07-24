@@ -1,0 +1,250 @@
+abyss
+alpine
+alpine desert
+alpine mountain
+andes
+antarctic
+appalachian
+arboretum
+archipelago
+arctic
+arctic alpine tundra
+arctic desert
+arctic forest
+arctic grassland
+arctic mountain
+arctic ocean
+arctic tundra
+arid desert
+badlands
+bamboo forest
+bay
+bayou
+beach
+bog
+boreal
+boreal desert
+boreal forest
+boreal jungle
+boreal mountain
+boreal ocean
+boreal savanna
+boreal steppe
+boreal swamp
+broadleaf forest
+bush
+cabin
+campfire pit
+canal
+canyon
+canyonlands
+cape
+cave
+cavern
+caves
+cenote
+channel
+cherry blossom forest
+cliff
+cloud forest
+coastal
+coastal desert
+coastal forest
+cold desert
+copse
+coral atoll
+coral reef
+cove
+crystal cave
+current
+deciduous forest
+delta
+desert
+desert mountain
+dry conifer forest
+dry savanna forest
+dune
+ecological park
+estuary
+evergreen forest
+fen
+fjord
+floating island
+foothills
+forest
+garden
+geyser
+geysers
+glacier
+gorge
+grass forest
+grassland
+grotto
+grove
+hammock stand
+headland
+hill
+hills
+himalayan
+hot desert
+hot spring
+hunting blind
+ice sheet
+iceland
+inlet
+island
+isthmus
+jungle
+karst
+kelp forest
+lagoon
+lake
+lean-to
+mangrove
+marine
+marsh
+marshlands
+meadow
+mediterranean forest
+mesa
+monsoon forest
+montane forest
+mossy broad-leaved forest
+mossy coniferous forest
+mossy mixed-leaved forst
+mossy subtropical forest
+mossy temperate forest
+mountain
+mountain desert
+mountains
+mushroom forest
+nature
+nature trail
+oasis
+ocean
+ocean bottom
+ocean desert
+ocean floor
+park
+parking lot
+peatland
+peninsula
+picnic area
+plain
+plains
+plateau
+platform
+playground
+polar
+polar alpine tundra
+polar desert
+polar forest
+polar grassland
+polar ice cap
+polar mountain
+polar ocean
+polar region
+polar tundra
+polder
+pond
+prairie
+promontory
+rainforest
+rainy savana forest
+rapids
+reef
+reservoir
+rice paddy
+ridge
+river
+river delta
+rocky
+salt flat
+sandbar
+savanna
+savanna tropical forest
+savannah
+sea
+seabed
+seamount
+seasonal forest
+semi-arid desert
+shelter
+shipwreck
+shoal
+shore
+sinkhole
+space
+steppe
+strait
+stream
+submarine
+subtropical broad-leaved forest
+subtropical coniferous forest
+subtropical desert
+subtropical mixed-leaved forest
+sunken ship
+swamp
+taiga
+teepee
+temperate
+temperate alpine tundra
+temperate broad-leaved forest
+temperate coniferous forest
+temperate deciduous forest
+temperate desert
+temperate forest
+temperate grassland
+temperate jungle
+temperate mixed forest
+temperate mixed-leaved forest
+temperate mountain
+temperate needle forest
+temperate ocean
+temperate rainforest
+temperate savanna
+temperate steppe
+temperate swamp
+tent
+the river lethe
+thicket
+timberland
+tree platform
+treehouse
+trench
+tropical
+tropical desert
+tropical dry forest
+tropical forest
+tropical grassland
+tropical jungle
+tropical moist forest
+tropical mountain
+tropical ocean
+tropical rain forest
+tropical rainforest
+tropical savanna
+tropical seasonal forest
+tropical steppe
+tropical swamp
+tundra
+undersea cave
+undersea mountain
+underwater
+underwater canyon
+valley
+volcanic
+volcano
+wasteland
+water
+waterfall
+wetland
+wetlands
+wheat field
+wilderness
+wildlife viewing platform
+woodland
+woodlands
+woods
+wrecksite
+yurt

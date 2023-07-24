@@ -1,0 +1,19 @@
+animal
+cervine
+cetacean
+cloacal
+equine
+feline
+humanoid
+hybrid
+knotted canine
+knotted equine
+knotted humanoid
+prehensile
+ribbed
+ridged
+sentient
+snake
+tapering
+tentacles
+unusual

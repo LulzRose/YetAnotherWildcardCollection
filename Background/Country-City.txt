@@ -1,0 +1,146 @@
+New York City
+London
+Tokyo
+Istanbul
+Bangkok
+Dubai
+Barcelona
+Amsterdam
+Berlin
+Sydney
+Vienna
+Moscow
+Mumbai
+Rio de Janeiro
+Los Angeles
+Rome
+Paris
+San Francisco
+Shanghai
+Buenos Aires
+Toronto
+Chicago
+Seoul
+Taipei
+Prague
+Madrid
+Athens
+Edinburgh
+Copenhagen
+Zurich
+Stockholm
+Helsinki
+Oslo
+Brussels
+Lisbon
+Warsaw
+Kiev
+Budapest
+Marrakesh
+Cairo
+Jerusalem
+Cape Town
+Nairobi
+Auckland
+Vancouver
+Seattle
+Austin
+Boston
+San Diego
+Washington D.C.
+Miami
+New Orleans
+Las Vegas
+Dublin
+Glasgow
+Manchester
+Birmingham
+Liverpool
+Newcastle
+Bath
+Brighton
+Bristol
+Cardiff
+Oxford
+Cambridge
+Venice
+Milan
+Naples
+Munich
+Frankfurt
+Hamburg
+Cologne
+Geneva
+Bern
+Interlaken
+Reykjavik
+Tallinn
+Riga
+Vilnius
+Dubrovnik
+Split
+Ljubljana
+Belgrade
+Bucharest
+Sofia
+Krakow
+Gdansk
+Bruges
+Antwerp
+Rotterdam
+The Hague
+Utrecht
+Maastricht
+Luxembourg City
+San Juan
+Cancun
+United States
+China
+Japan
+Germany
+United Kingdom
+France
+Italy
+Spain
+Canada
+Mexico
+Australia
+Brazil
+South Korea
+India
+Russia
+Turkey
+Saudi Arabia
+United Arab Emirates
+Indonesia
+Argentina
+South Africa
+Egypt
+Thailand
+Malaysia
+Singapore
+Switzerland
+Sweden
+Norway
+Finland
+Denmark
+Netherlands
+Belgium
+Greece
+Portugal
+Poland
+Czech Republic
+Hungary
+Austria
+Ireland
+Israel
+Jordan
+Morocco
+Kenya
+Tanzania
+Peru
+Chile
+Colombia
+Ecuador
+Costa Rica
+Panama

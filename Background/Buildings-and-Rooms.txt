@@ -1,0 +1,656 @@
+"ai command center"
+"artificial intelligence hub"
+"central command center"
+"control bridge"
+"cyber nexus"
+"data heart"
+"neural network nexus"
+"nexus chamber"
+"operations hub"
+"the brain"
+"the circuit"
+"the grid"
+"the matrix"
+"virtual command post"
+"war room"
+accelerator
+aerial metropolis
+aerial navies
+aerial resorts
+aerial tethers
+aerospace control center
+agricultural settlement
+airborne arcologies
+airborne habitats
+airfield
+airport
+alley
+amphitheater
+amusement park
+angkor wat
+antenna array
+anteverse conduit
+antique store
+apartment
+apartment building
+aperture science
+aquarium
+aquatic temple
+aqueduct
+arcade
+arch dam
+archticture
+arena
+armory
+art deco interior
+art gallery
+art studio
+asian interior
+asteroid base
+astronomical observatory
+astronomy laboratory
+attic
+bakery
+balcony
+balloon cities
+ballroom
+bank
+bar
+barn
+baseball field
+basement
+basilica
+bathroom
+bathtub
+bazaar
+beach
+beach house
+beach resort
+bed and breakfast
+bedroom
+bell tower
+bio-dome
+biology laboratory
+biotechnology laboratory
+biotics lab
+birdhouse
+black mesa
+bohemian interior
+boho chic interior
+book store
+bookstore
+booth
+botanical garden
+bowling alley
+bridge
+buckingham palace
+bungalow
+bunker
+burj khalifa
+bus station
+bus stop
+butcher shop
+cab
+cabin
+cafe
+cafeteria
+campground
+canal
+carousel
+carport
+casino
+castle
+catacomb
+cathedral
+celestia platform
+cell
+cellar
+cenotaph
+cern
+chalet
+chamber
+changing room
+chantry
+chapel
+chemical plant
+chemistry laboratory
+cheyenne mountain
+chichen itza
+chinese restaurant
+christ the redeemer
+church
+cinema
+circus
+citadel
+city
+city 17
+city of the damned
+city zero
+classroom
+clic
+climatology laboratory
+clinic
+clock tower
+closet
+cloud city
+clubroom
+coal mine
+coastal interior
+coastal settlement
+college
+colosseum
+command center
+community
+community center
+company
+compartment
+computer science laboratory
+concert
+concert hall
+confinement
+conservatory
+construction site
+contemporary interior
+control center
+control tower
+convenience store
+convention
+cooling tower
+coop
+corridor
+cottage
+courtroom
+courtyard
+crib
+crosswalk
+cruise ship
+crypt
+crystal matrix
+cubicle
+dam
+dance hall
+dance studio
+dark vortex
+data center
+defense grid
+den
+department store
+desert settlement
+desy
+dharma initiative
+dining room
+dirt road
+dispatch room
+division
+dock
+doghouse
+dome
+dormitory
+dressing room
+drydock
+dungeon
+dunwich
+dyson sphere
+eclectic interior
+edge city
+eiffel tower
+electronics laboratory
+emergency operations center
+enclosure
+energy collection grid
+energy control center
+energy well
+english country interior
+environmental science laboratory
+experimental lab
+factory
+factory complex
+family room
+farmhouse
+farmhouse interior
+fast food restaurant
+fermilab
+ferris wheel
+field
+fire control room
+fire station
+fish market
+fitting room
+floating castle
+floating cities
+floating city
+floating fortresses
+floating habitats
+floating hotel
+floating islands
+flower field
+flower shop
+food science laboratory
+footbridge
+forensic laboratory
+fort
+fortified settlement
+fortress
+fossil fuel power station
+fountain
+foyer
+freeway
+french country interior
+frontier settlement
+future circular collider
+futuristic interior
+game store
+garage
+garden
+gas station
+gate
+gazebo
+genetic modification center
+genetics laboratory
+genosha
+geology laboratory
+ghost town
+giant sequoia tree
+glam interior
+golf course
+government building
+grain elevator
+grain silo
+granny flat
+graveyard
+gravity engine
+great pyramid of giza
+great wall of china
+greenhouse
+griggs laboratories
+grocery store
+guard tower
+guest house
+guest room
+guesthouse
+gurdwara
+gym
+gym storeroom
+gymnasium
+hagia sophia
+hallway
+hamlet
+hangar
+hangar bay
+harbor
+hardware store
+health club
+henge
+high altitude platforms
+highland settlement
+highway
+hill settlement
+hippie chic interior
+hmi room
+hole
+hollywood regency interior
+home office
+hospital
+hostel
+hotel
+hotel room
+house
+hut
+hydroelectric power plant
+hydroponic bay
+igloo
+ilc
+industrial
+industrial control room
+industrial interior
+infirmary
+intersection
+isolde
+izakaya
+j-parc
+japanese restaurant
+jetty
+jungle settlement.
+kaaba
+kitchen
+laboratory
+labrary
+landing
+landing pad
+laundry
+laundry room
+leaning tower of pisa
+lexcorp
+library
+lighthouse
+linac-ring collider
+living room
+locker room
+lodge
+loft
+lounge
+lunar outpost
+machu picchu
+mall
+manor
+mansion
+marina
+marine science laboratory
+market
+market stall
+martyrium
+materials science laboratory
+mcc (motor control center)
+mechanical engineering laboratory
+media room
+medical laboratory
+mediterranean interior
+megalopolis
+megastructure
+messy room
+metallurgical laboratory
+meteor reef
+metro city
+metropolis
+microbiology laboratory
+mid-century modern interior
+midgar
+military base
+minaret
+minimalist interior
+mining colony
+mining control room
+mining settlement
+modern interior
+monastery
+monitoring station
+monolith
+monument
+moroccan interior
+mosque
+motel
+mountain settlement
+movie theater
+mudroom
+muon collider
+muon ionization cooling experiment
+museum
+music store
+nanotechnology laboratory
+national park
+nature reserve
+nautical interior
+necropolis
+nerv
+network control center
+neutrino factory
+new vegas
+nexus
+nexus array
+night city
+nightclub
+noc
+nuclear missile silo
+nuclear power plant
+nuclear powerplant
+null portal
+obelisk
+observatory
+office
+office building
+offshore oil platform
+offshore wind farm
+oil platform
+oil refinery
+oil rig
+omicron station
+onsen
+operations room
+oratory
+otaku room
+outhouse
+overpass
+ozwell e. spencer's mansion
+pagoda
+palace
+pandemic
+park
+parking garage
+parthenon
+path
+patio
+pavilion
+pawn shop
+pedestrian bridge
+pedestrian tunnel
+pen
+petra
+pharmacy
+phone booth
+photography studio
+physics laboratory
+pier
+pipeline control room
+planetarium
+playground
+playhouse
+playroom
+polaris array
+police station
+pool
+poolside
+porch
+port
+portal
+portico
+post office
+power control room
+power plant
+powerplant
+pripyat
+prison
+prison cell
+project cadmus
+prometheus group
+protean hive
+provence interior
+public toilet
+pueblo
+pyramid
+pyramids of giza
+quarry
+race track
+railroad crossing
+railroad tracks
+ranch house
+rapture
+rapture city
+refinery
+remains
+research center
+research facility
+resort
+restaurant
+rice paddy
+rink
+river settlement
+road
+roller coaster
+rooftop
+room
+room with breaking out of fire
+room with flood water
+rope bridge
+rotunda
+ruins
+running track
+runway
+rural
+rural community
+rustic interior
+safety control room
+salon
+sauna room
+scada room
+scandinavian interior
+school
+schoolhouse
+scullery
+sea fort
+security control room
+sesame
+sewage treatment plant
+sewer
+sex shop
+shabby chic interior
+shack
+shadow nexus
+shed
+shipyard
+shop
+shopping mall
+shopping street
+shower
+shrine
+sidewalk
+silent hill
+silo
+skate park
+skating rink
+ski chalet
+ski resort
+sky castle
+sky colonies
+sky havens
+sky palaces
+sky spires
+sky villages
+skyscraper
+sno+
+soccer field
+solar power station
+spa
+space elevator
+space station
+spallation neutron source
+sphinx
+spire
+sports arena
+sports complex
+sps
+stadium
+staff room
+stage
+stahlstadt
+staircase
+stall
+star forge
+star labs
+star map
+stasis chamber
+state park
+steampunk interior
+stellar core
+stilt house
+stone walkway
+stonehenge
+storage depot
+storage room
+storehouse
+street
+study
+stupa
+suburb
+subway station
+sunroom
+superkekb
+supermarket
+suspension bridge
+swimming pool
+sydney opera house
+synagogue
+tabernacle
+taj mahal
+tavern
+teepee
+telecommunications tower
+temple
+tennis court
+terrace
+terraforming hub
+the acropolis
+the alhambra
+the burj khalifa
+the celestial nexus
+the eiffel tower
+the golden gate bridge
+the hive
+the infinite spiral
+the lodge
+the nebula hub
+the parthenon
+the pyramids of teotihuacan
+the roman aqueducts
+the singularity relay
+the sistine chapel
+the sydney opera house
+the void beacon
+theater
+theatre
+tlep
+toilet
+toilet stall
+toll road
+tomb
+tool shed
+tower
+town
+townhouse
+township
+toxicology laboratory
+traditional interior
+traffic control center
+train station
+treehouse
+trench
+tropical interior
+tunnel
+tv show
+umbrella africa
+umbrella corporation
+underpass
+university
+urban modern interior
+vacation home
+veranda
+viaduct
+villa
+village
+vortex matrix
+war room
+ward
+warehouse
+waste management control room
+water park
+water tower
+water treatment plant
+waterpark
+weapon shop
+weather control room
+well
+wheat field
+white house
+wind farm
+wind turbine
+windmill
+wine cellar
+wooden bridge
+wooden house
+workshop
+wormhole terminal
+xenosphere
+yard
+yoga studio
+yurt
+ziggurat
+zoo

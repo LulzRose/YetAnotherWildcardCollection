@@ -1,0 +1,304 @@
+47 tucanae (globular cluster)
+51 pegasi
+abandoned planet
+abandoned space station
+abell galaxy
+airship
+alcyoneus galaxy
+aldebaran
+alderaan
+alderaan planet
+alpha centauri
+altair
+altair iv
+alternate universe
+ambulance ship
+andromeda galaxy
+anomaly planet
+antares
+antennae galaxies
+anti-universe
+antila 2 galaxy
+arcturus
+argo spaceship
+arid planet
+arrakis planet
+asteroid
+asteroid field
+babylon 5
+backward galaxy
+barnard's star
+battlestar galactica
+bespin planet
+betelgeuse
+black eye galaxy
+black eye galaxy (m64)
+black hole
+black sun
+bode's galaxy
+boreal planet
+brown dwarf
+brown dwarf planet
+butterfly galaxies
+canes venatici i galaxy
+canis major dwarf galaxy
+capella
+carbon planet
+cargo ship
+carrier
+cartwheel galaxy
+cigar galaxy
+cigar galaxy (m82)
+circinus galaxy
+colony ship
+coma pinwheel galaxy
+comet galaxy
+command ship
+condor galaxy
+corot-7b planet
+coruscant planet
+cosmic string
+cosmos redshift 7 galaxy
+crab nebula (m1)
+crater ii galaxy
+cruiser
+cyberspace
+cybertron planet
+cygnus x-1
+dagobah planet
+dark universe
+death star
+deneb
+desert planet
+desolate planet
+destroyer
+discovery one
+docking ship
+double cluster (ngc 869 and ngc 884)
+draco dwarf galaxy
+dreadnought
+dumbbell nebula (m27)
+dwarf planet
+dyson sphere
+eagle nebula (m16)
+earth
+endor planet
+enterprise spaceship
+epsilon eridani
+eternia planet
+event horizon
+exoplanet
+explorer
+eye of sauron galaxy
+fighter
+fireworks galaxy
+freighter
+frozen planet
+gallifrey planet
+gas giant
+gas giant planet
+geonosis planet
+gliese 581g planet
+gravitational anomaly
+habitat ship
+halcyon
+hat-p-26b planet
+hd 209458 b planet
+hd 40307g planet
+heavy carrier
+hercules a galaxy
+hidden universe
+hoag's object
+hockey stick galaxies
+horsehead nebula
+hot jupiter
+hot jupiter planet
+hoth planet
+hubble deep space telescope
+hyades star cluster
+hyper-universe
+hyperion
+iapetus
+ice giant
+ice giant planet
+interceptor
+interdimensional portal
+interplanetary ship
+interstellar ship
+iron planet
+isotopic planet
+jovian planet
+jump gate
+jungle planet
+jupiter
+jupiter-like planet
+k2-18b planet
+kamino planet
+kepler-186f planet
+kepler-22b
+kepler-438b planet
+kepler-62f planet
+kepler-69c planet
+krypton planet
+kuiper belt object
+lagoon nebula (m8)
+large magellanic cloud
+lava planet
+lifepod
+light carrier
+lindsay-shapley ring
+liner ship
+little sombrero galaxy
+lothal planet
+lush planet
+macro-universe
+malin 1 galaxy
+mars
+matrix
+mayall's object
+medusa merger galaxy
+megastar
+megastructure
+megaverse
+mercury
+meta-universe
+meteor shower
+mice galaxies
+micro-universe
+milky way
+milky way galaxy
+millennium falcon
+mini-neptune
+mini-neptune planet
+mining ship
+mirror universe
+molten planet
+multiverse
+mustafar planet
+naboo planet
+nebuchadnezzar
+nebula
+needle galaxy
+negative universe
+neptune
+neptune-like planet
+neptunian planet
+nostromo
+observatory ship
+ocean planet
+omega centauri (globular cluster)
+omicron persei 8
+omicron persei 8 planet
+omniverse
+orbiting hq of doom
+orion nebula (m42)
+owl nebula (m97)
+pandora planet
+paradoxical universe
+parallel universe
+patrol ship
+phantom planet
+pinwheel galaxy
+pinwheel galaxy (m101)
+planet
+pleiades star cluster (m45)
+pluto
+pollux
+praesepe star cluster (m44)
+proxima centauri
+proxima centauri b planet
+pulsar
+pulsar planet
+quantum realm
+quasar
+radiant storm
+radioactive planet
+red dwarf spaceship
+regulus
+rescue ship
+research ship
+reverse universe
+rigel
+ring nebula (m57)
+ring world
+rocky planet
+rogue planet
+saturn
+savanna planet
+scout ship
+sculptor dwarf galaxy
+sculptor galaxy
+serenity spaceship
+shuttle
+simulation
+singularity
+singularity engine
+sirius
+sirius black
+small magellanic cloud
+sol system
+solar flare
+sombrero galaxy
+sombrero galaxy (m104)
+southern pinwheel galaxy
+space debris field
+space meteor strike
+space plague
+space rift
+space tsunami
+spacecraft jupiter 2
+spaceship
+starbug
+stargate
+stormy planet
+sub-saturn planet
+subtropical planet
+sunflower galaxy
+sunflower galaxy (m63)
+super-earth
+super-earth planet
+tadpole galaxy
+tatooine planet
+tau ceti
+terrestrial planet
+tesseract
+the bleed
+the crossroads of time
+the meta-verse
+the microverse
+the mirror dimension
+the negative zone
+the omniverse
+the phantom zone
+the speed force
+the time vortex
+thra planet
+toxic planet
+transport ship
+transporter
+trappist-1e planet
+triangulum galaxy
+tropical planet
+tundra planet
+u.s.s. voyager
+ultra-hot jupiter
+universe
+uranus
+ursa major i dwarf galaxy
+ursa minor galaxy
+vapor-rich planet
+vega
+venus
+virtual reality
+volcanic planet
+vulcan planet
+warp drive
+wasp-12b planet
+wasp-17b planet
+water world
+whirlpool galaxy
+whirlpool galaxy (m51)
+wolf-lundmark-melotte
+wormhole
+zelos planet
+zeta 2 reticuli

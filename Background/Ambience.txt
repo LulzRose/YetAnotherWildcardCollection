@@ -1,0 +1,30 @@
+afternoon
+autumn day
+blue sky
+clear sky
+cloudy day
+cold day
+dawn
+dusk
+early morning
+evening
+full moon night
+hot day
+midday
+midnight
+misty day
+morning
+night
+noon
+rainy day
+snowy day
+spring day
+starry night
+storm day
+summer day
+sunny day
+sunrise
+sunset
+windy day
+winter day
+{dusk|twightlight}

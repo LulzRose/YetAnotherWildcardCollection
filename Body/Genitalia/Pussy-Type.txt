@@ -1,0 +1,7 @@
+anatomically correct
+canine
+cervine
+cetacean
+equine
+feline
+humanoid
