@@ -4,5 +4,7 @@ This is a compilation of around a dozen wildcard collections pruned for any erro
 Please dont ask me about the Avian file, I dont wanna see another bird ever again...
 
 Todo:
+
 -Finish this Readme
+
 -Organize Prompts folder
