@@ -26,7 +26,7 @@ Including:
 
 ## TODO
 
-- [?] Finish the Readme
+- [X] Finish the Readme
 - [ ] Organize Prompts
 - [ ] Improve naming schema
 
