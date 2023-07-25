@@ -5,25 +5,28 @@ YetAnotherWildcardCollection
 
 This is a compilation of around a dozen wildcard collections pruned for any errors and duplicates and organized for ease of use. 
 
-Usage
------
+## Requirements
 
-Provide examples and instructions for using your project. Include code snippets or detailed explanations to help users understand how to interact with your project.
+[SD-Dynamic-Prompts Extension - https://github.com/adieyal/sd-dynamic-prompts](https://github.com/adieyal/sd-dynamic-prompts)
+
+## How to Use
+
+Download the wildcards or folders you would like and place them in your wildcards directory in /path/to/stable-diffusion-webui/extensions/sd-dynamic-prompts/wildcards.
 
 Features
 --------
 
-List the key features of your project. Use bullet points for better readability.
+The collection includes 322 Files organized into 26 folders
 
-- Feature 1
-- Feature 2
-- Feature 3
+Including:
+- 1205 Pokemon Species
+- Thousands of Colors
+- Tons of Pre-Made Prompts
 - Please dont ask me about the Avian file, I dont wanna see another bird ever again...
 
 ## TODO
 
-- [ ] Finish the Readme
-- [ ] Write Usage
+- [?] Finish the Readme
 - [ ] Organize Prompts
 - [ ] Improve naming schema
 
