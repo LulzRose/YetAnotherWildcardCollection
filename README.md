@@ -8,6 +8,8 @@ This is a compilation of around a dozen wildcard collections pruned for any erro
 ## Requirements
 
 [SD-Dynamic-Prompts Extension - https://github.com/adieyal/sd-dynamic-prompts](https://github.com/adieyal/sd-dynamic-prompts)
+OR
+[Stable-Diffusion-WebUI-Wildcards - https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards](https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards)
 
 ## How to Use
 
@@ -19,7 +21,7 @@ Features
 The collection includes 322 Files organized into 26 folders
 
 Including:
-- 1205 Pokemon Species
+- 1205 Different Pokemon
 - Thousands of Colors
 - Tons of Pre-Made Prompts
 - Please dont ask me about the Avian file, I dont wanna see another bird ever again...
