@@ -31,8 +31,9 @@ Including:
 ## TODO
 
 - [X] Finish the Readme
-- [ ] Organize Prompts
+- [ ] Organize Prompts Folder
 - [ ] Improve naming schema
+- [ ] Prune Furries Wildcard
 
 ## License
 
