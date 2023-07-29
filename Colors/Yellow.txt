@@ -46,7 +46,8 @@ school bus yellow
 selective yellow
 stil de grain yellow
 straw
-sunglow    sunset
+sunglow
+sunset
 vanilla
 wheat
 yellow
