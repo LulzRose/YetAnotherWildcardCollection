@@ -8,7 +8,9 @@ This is a compilation of around a dozen wildcard collections pruned for any erro
 ## Requirements
 
 [SD-Dynamic-Prompts Extension - https://github.com/adieyal/sd-dynamic-prompts](https://github.com/adieyal/sd-dynamic-prompts)
+
 OR
+
 [Stable-Diffusion-WebUI-Wildcards - https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards](https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards)
 
 ## How to Use
