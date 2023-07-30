@@ -5,6 +5,7 @@ amphimorpho
 andoro
 animaniac
 antearis
+anthro alligator
 anthro alpaca
 anthro arctic fox
 anthro arthropod
@@ -21,8 +22,11 @@ anthro cat
 anthro cheetah
 anthro cougar
 anthro cow
+anthro coyote
+anthro crocodile
 anthro deer
 anthro dog
+anthro dolphin
 anthro dragon
 anthro eagle
 anthro elephant
@@ -31,10 +35,12 @@ anthro feline
 anthro fennec
 anthro ferret
 anthro fox
+anthro gecko
 anthro goat
 anthro hippo
 anthro horse
 anthro housecat
+anthro husky
 anthro hybrid
 anthro hyena
 anthro kangaroo
@@ -43,13 +49,19 @@ anthro leopard
 anthro lion
 anthro lizard
 anthro llama
+anthro lynx
 anthro moth
 anthro mouse
 anthro otter
 anthro owl
+anthro panda
 anthro pangolin
+anthro panther
+anthro parrot
 anthro peacock
+anthro penguin
 anthro phoenix
+anthro pig
 anthro pine marten
 anthro polar bear
 anthro puma
@@ -59,18 +71,21 @@ anthro racoon
 anthro rat
 anthro raven
 anthro red panda
+anthro reptile
 anthro sabertooth
 anthro seal
 anthro shark
 anthro sheep
 anthro skunk
 anthro snake
+anthro snow leopard
 anthro squirrel
 anthro sugar glider
 anthro tanuki
 anthro tiger
 anthro turtle
 anthro walrus
+anthro weasel
 anthro whale
 anthro wolf
 anthro wombat
