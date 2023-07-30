@@ -1,38 +1,245 @@
-Adventure Time
-American Dad!
-Chowder
-Courage the Cowardly Dog
-Dexter's Laboratory
-Ed, Edd n Eddy
-Family Guy
-Futurama
-Gravity Falls
-Hey Arnold!
-Invader Zim
-Johnny Bravo
-Looney Tunes
-Over the Garden Wall
-Peanuts
-Regular Show
-Rick and Morty
-Rocko's Modern Life
-Rugrats
-Samurai Jack
-Samurai Pizza Cats
-Scooby-Doo
-South Park
-SpongeBob SquarePants
-Star Wars: The Clone Wars
-Steven Universe
-Teen Titans
-The Addams Family
-The Flintstones
-The Jetsons
-The Moomins
-The Pink Panther
-The Powerpuff Girls
-The Ren & Stimpy Show
-The Simpsons
-The Smurfs
-The Wild Thornberrys
-Tom and Jerry
+101 dalmatian street
+44 cats
+adventure time
+american dad!
+amphibia
+archer
+avatar: the last airbender
+avengers assemble
+avengers: united they stand
+baby looney tunes
+batman beyond
+batman: the animated series
+batman: the brave and the bold
+be cool, scooby-doo!
+bee and puppycat
+ben 10 (reboot)
+big city greens
+big hero 6: the series
+big mouth
+bluey
+bob's burgers
+bojack horseman
+bunnicula
+bunsen is a beast
+captain planet and the planeteers
+carmen sandiego
+central park
+chowder
+clarence
+close enough
+counterfeit cat
+courage the cowardly dog
+cow and chicken
+craig of the creek
+daisy and the gumboot kids
+danger & eggs
+dc super hero girls
+dexter's laboratory
+dora the explorer
+doug unplugs
+dragon ball super
+ducktales (1987)
+ducktales (2017)
+ed, edd n eddy
+elena of avalor
+elliott from earth
+encanto
+family guy
+fast & furious spy racers
+foster's home for imaginary friends
+futurama
+generator rex
+gigantosaurus
+glitch techs
+go jetters
+gravity falls
+green lantern: the animated series
+guardians of the galaxy
+harvey beaks
+hey arnold!
+home: adventures with tip & oh
+housebroken
+hulk and the agents of s.m.a.s.h.
+infinity train
+invader zim
+invincible
+iron man: armored adventures
+johnny bravo
+johnny test
+jonny quest
+jungle beat: the animated series
+jurassic world: camp cretaceous
+justice league
+justice league action
+justice league unlimited
+kamp koral: spongebob's under years
+kipo and the age of wonderbeasts
+kulipari: an army of frogs
+kulipari: dream walker
+legend quest
+lego ninjago: masters of spinjitzu
+lego star wars: the freemaker adventures
+lego star wars: the resistance rises
+little baby bum
+littlest pet shop: a world of our own
+looney tunes
+lost in oz
+loud house
+mao mao: heroes of pure heart
+maya and the three
+mickey and the roadster racers
+mickey mouse clubhouse
+mickey mouse funhouse
+mighty express
+mighty magiswords
+milo murphy's law
+mira, royal detective
+miraculous ladybug
+monsters at work
+monsters vs. aliens
+muppet babies
+mush-mush and the mushables
+my gym partner's a monkey
+my little pony: a new generation
+my little pony: friendship is magic
+mysticons
+nella the princess knight
+niko and the sword of light
+nina's world
+ninjago: masters of spinjitzu
+octonauts
+ok k.o.! let's be heroes
+ollie's pack
+over the garden wall
+paw patrol
+peanuts
+phineas and ferb
+pickle and peanut
+pikwik pack
+pinocchio and the emperor of the night
+pj masks
+polly pocket
+popeye the sailor
+puppy dog pals
+rabbids invasion
+rainbow butterfly unicorn kitty
+randy cunningham: 9th grade ninja
+regular show
+rick and morty
+robot chicken
+rocko's modern life
+ron's gone wrong
+rugrats
+rusty rivets
+samurai jack
+samurai pizza cats
+santiago of the seas
+scooby-doo
+scooby-doo and guess who?
+scooby-doo, where are you!
+sesame street
+she-ra and the princesses of power
+sheep in the big city
+sheriff callie's wild west
+side hustle
+skylanders academy
+sofia the first
+sonic boom
+south park
+spider-man: into the spider-verse
+spider-man: the animated series
+spider-man: the new animated series
+spirit riding free
+spongebob squarepants
+star wars rebels
+star wars resistance
+star wars: the bad batch
+star wars: the clone wars
+static shock
+steven universe
+summer camp island
+super friends
+super monsters
+superman & lois
+superman: the animated series
+t.o.t.s.
+tangled: the series
+teen titans
+teen titans go!
+teenage mutant ninja turtles (2012)
+the addams family
+the adventures of kid danger
+the adventures of puss in boots
+the adventures of rocky and bullwinkle
+the amazing spider-man
+the amazing world of gumball
+the animaniacs
+the avengers: earth's mightiest heroes
+the avengers: united they stand
+the batman
+the boondocks
+the boss baby: back in business
+the casagrandes
+the chicken squad
+the day my butt went psycho!
+the dragon prince
+the fairly oddparents
+the flintstones
+the fungies!
+the great north
+the hollow
+the jetsons
+the legend of korra
+the legend of tarzan
+the lion guard
+the loud house
+the loud house movie
+the mighty b!
+the mighty ones
+the moomins
+the mr. peabody & sherman show
+the muppet show
+the owl house
+the patrick star show
+the penguins of madagascar
+the pink panther
+the powerpuff girls
+the powerpuff girls (2016)
+the prince
+the ren & stimpy show
+the simpsons
+the smurfs
+the snoopy show
+the spectacular spider-man
+the tom and jerry show
+the wild thornberrys
+tig n' seek
+tom and jerry
+total dramarama
+transformers: cyberverse
+transformers: robots in disguise
+transformers: war for cybertron trilogy
+trash truck
+trollhunters: tales of arcadia
+trolls: the beat goes on!
+trolls: trollstopia
+true and the rainbow kingdom
+trulli tales
+tuff puppy
+ultimate avengers
+ultimate spider-man
+uncle grandpa
+unikitty!
+vampirina
+victor and valentino
+w.i.t.c.h.
+war of the worlds: goliath
+we bare bears
+weird but true!
+welcome to the wayne
+wolverine and the x-men
+x-men: evolution
+x-men: the animated series
+young justice
+zafari
