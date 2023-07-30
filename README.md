@@ -20,7 +20,7 @@ Download the wildcards or folders you would like and place them in your wildcard
 Features
 --------
 
-The collection includes 305 Files organized into 26 folders
+The collection includes 306 Files organized into 26 folders
 
 Including:
 - 1205 Different Pokemon
