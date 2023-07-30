@@ -1,102 +1,36 @@
-abyssal lagiacrus
 acid-spewer dragon
 adult gold dragon
-akoum hellkite
-alabaster dragon
 ancestor dragon
-ancient hellkite
 angel dragon
-anjanath
-arashin sovereign
-arcbound whelp
 archwing dragon
-artificer's dragon
 astral dragon
-avaricious dragon
-backdraft hellkite
-bahamut
-balefire dragon
 bearded dragon
-belltoll dragon
 black dragon
-blast-furnace hellkite
 blue dragon
-bogardan hellkite
-boltwing marauder
 brimstone dragon
 broodmate dragon
-brute wyvern
 canopy dragon
-catacomb dragon
 ceratopsian
 chaos dragon
-chardalyn dragon
-charizard
-charmander
-charmeleon
 clockwork dragon
-covetous dragon
-cunning breezedancer
-cynder
-deathbringer regent
-deathclaw
-demanding dragon
-destructor dragon
-deviljho
 draco
 dragon broodmother
 dragon hatchling
-dragon tyrant
 dragon whelp
-dragonair
-dragonborn \(dnd\)
-dragonite
-dragonwrought kobold
-dream pillager
-dromaeosaurid
-dunkleosteus
 dutch angel dragon
-ebon dragon
-ebony odogaron
 ender dragon
-enduring scalelord
 exalted dragon
 fairy dragon
-fallaji dragon engine
-fatalis
-feraligatr
 fire dragon
-firestorm hellkite
-firondraak
 flameblast dragon
-flamedramon
 fledgling dragon
-foe-razer regent
 forgestoker dragon
-freejam regent
 frilled petal dragon
 furnace dragon
-furnace whelp
 furred kobold
-furyborn hellkite
-garchomp
-gecko
 glaive wyvern
-glorybringer
 goldspan dragon
-gore magala
 green dragon
-guilmon
-harbinger of the hunt
-hellkite charger
-hellkite courser
-hellkite hatchling
-hellkite igniter
-hellkite overlord
-hellkite punisher
-hellkite tyrant
-hellkite whelp
-helmeted guineafowl
 herdchaser dragon
 hoard-smelter dragon
 hoarding dragon
@@ -104,141 +38,63 @@ hunted dragon
 hydra
 hypersonic dragon
 ice dragon
-icefall regent
-imperial hellkite
-jagras
 japanese kobold
 juvenile mist dragon
 kilnmouth dragon
-king ghidorah
 knollspine dragon
 kobold
-koraidon
-krogan
-kulve taroth
-kushala daora
-lagiacrus
-lava-field overlord
-leafwing \(wof\)
 leviathan
-leviathan \(mh\)
-leyline tyrant
-lictor \(tyranid\)
-light fury
 lightning dragon
-lightning shrieker
 loch dragon
-lotus guardian
 lurking green dragon
 mana-charged dragon
-manaform hellkite
 maned dragon
 mindscour dragon
-miraidon
 mirrorwing dragon
 mist dragon
-mizutsune
 moonveil dragon
-moonveil regent
 mordant dragon
-mudwing \(wof\)
-murktide regent
 nalathni dragon
-nardoragon
-nargacuga
 necromaster dragon
-nergigante
 nesting dragon
 night fury
 noxious dragon
-obsidian charmaw
 oceanus dragon
-odogaron
 opportunistic dragon
 ore-scale guardian
 pardic dragon
 pearl dragon
 predator dragon
 preyseizer dragon
-pristine skywise
-pseudodragon familiar
 purifying dragon
 purple dragon
 quicksilver dragon
-ragefire hellkite
 rakdos pit dragon
-ramos, dragon engineteeka's dragon
-rapacious dragon
-rath wyvern
 rathalos
-rathi dragon
-rathian
 red dragon
-reshiram
-runehorn hellkite
-ruthless deathfang
-saphira
-sarkhan's whelp
-savage ventmaw
-scalelord reckoner
-scion of draco
-scourge of kher ridges
-scourge of the throne
-scourge of valkas
 sea serpent
 sethrak
-sharpclaw \(star fox\)
 shieldhide dragon
 shimmer dragon
-shiron
 shivan dragon
-shivan hellkite
 shockmaw dragon
 siege dragon
-sisu \(ratld\)
-skarrgan hellkite
-skyline despot
 skyship stalker
-slime dragon \(regalbuster\)
-slime \(dragon quest\)
 slumbering dragon
 smaug
-space dragon \(metroid\)
+space dragon
 sparktongue dragon
-spawn of thraxes
 spellbound dragon
-spyro
-steel hellkitecrimson hellkite
 stormbreath dragon
 stormwing dragon
-sunscorch regent
-swift warkite
-tek
-territorial hellkite
-terror of mount velus
-terror of the peaks
 thunder dragon
-thunderbreak regent
-thundermaw hellkite
 timeless dragon
-tobi-kadachi
 toothless
 two-headed dragon
-two-headed hellkite
 tyranid
-tyrant of kher ridges
-tyrant of valakut
-tyrant's familiar
-utvara hellkite
-valstrax
 viashivan dragon
-viper tobi-kadachi
 volcanic dragon
 voracious dragon
 wardscale dragon
-warmonger hellkite
 white dragon
 wrathful red dragon
-xero \(captainscales\)
-zekrom
-zerg
