@@ -1,14 +1,18 @@
 bison
+buffalo
+bull
 cattle
 chief bogo
 cow
+gaur
+gayal
 gnu
 hereford cattle
 highland cattle
 holstein friesian cattle
 jersey cattle
-minotaur
 tauros
 true buffalo
 water buffalo
 yak
+zebu
