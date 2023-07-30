@@ -1,157 +1,146 @@
-8-bit JRPG
-A Short Hike
-Age of Empires
-Albion
-Alone in the Dark
-Angry Birds
-Animal Crossing
-Baldur's Gate II
-Baldurs Gate
-Bastion
-Battle Axe
-BioShock
-Blizzard
-Cadillacs and Dinosaurs
-Candy Crush
-Carmen Sandiego
-Castle Wolfenstein
-Castlevania
-Chrono Trigger
-Civilization V
-Command & Conquer Red Alert
-Commander Keen
-Crusaider No Regret
-Dark Souls
-Darkest Dungeon
-Day of the Tentacle
-Desert Strike
-Diablo 2
-Diablo
-Disco Elysium
-Discworld
-Divinity Original Sin
-Doom
-Dota 2
-Dune
-Escape from Monkey Island
-Factorio
-Fall out
-Final Fantasy
-Full Throttle
-Full Throttle
-Game Boy Advance
-Game Boy Color
-Game Boy
-God of War
-Grand Theft Auto III
-Grim dawn
-Grim Fandango
-GTA 1
-GTA 2
-GTA V
-Half-Life
-Harvest Moon
-I Have No Mouth And I Must Scream
-Indiana Jones and the Fate of Atlantis
-JRPG
-League of Legends
-Legend of Mana
-Leisure Suit Larry
-Lemmings
-Little Big Adventure
-Loom
-LucasArts adventure games
-LucasArts
-Magic Carpet
-Maniac Mansion
-Mario Galaxy
-Mario Odissey
-Marvel vs. Capcom
-MDK
-Metal Slug
-Metroid Prime
-Minecraft
-Monster Rancher
-Monument Valley
-Mortal Kombat
-Myst
-Neverwinter Nights
-Nintendo DS
-Nintendo N64
-Nintendo
-Overwatch
-Path of Exile
-Plants vs zombies
-Playstation 1
-Playstation 2
-Pokemon
-Portal 2
-Prince of Persia
-Priston Tale
-PS One
-Quake
-Ragnarok
-Raptor Call of the Shadows
-Red Dead Redemption 2
-Redneck Rampage
-Resident Evil
-Retro RPG
-Rimworld
-Rockstar Games
-Roler Coaster Tycoon
-Runescape
-Sam & Max Hit the Road
-Samorost
-ScummVM
-Shadowrun
-Sid Meier’s Civilization
-Simant
-Simcity 2000
-Simcity 3000
-Simon the Sorcerer
-Skyrim
-Sony
-Square Enix
-Star wars KOTOR
-Star wars yoda stories
-Starcraft
-Stardew Valley
-Starfox
-Street Fighter
-Super Mario Bros 3
-Super Mario RPG
-Super Mario World
-Super Metroid
-Super Nintendo
-Superfrog
-Syndicate
-Team Fortress 2
-Tetris
-The Chaos Engine
-The Dig
-The Elder Scrolls
-The Elder Scrolls
-The Incredible Machine
-The Journey Down
-The Last of Us
-The Legend of Zelda
-The Lord of the Rings
-The Secret of Monkey Island
-The Witcher
-Theme Park
-Thief
-Tibia
-Tomb Raider
-Tony Hawk's Pro Skater 2
-Transport Tycoon
-Tropico 5
-Tyrian
-Ultima Online
-Undertale
-Warcraft
-Wing Commander
-World of Warcraft
-X-Com UFO Defense
-X-men
-Yoshi's Island
-Zak McKracken and the Alien Mindbenders
+8-bit jrpg
+a short hike
+age of empires
+agent 007
+albion
+alone in the dark
+angry birds
+animal crossing
+baldur's gate ii
+baldurs gate
+bastion
+battle axe
+bioshock
+cadillacs and dinosaurs
+call of duty
+call of duty modern warfare
+candy crush
+carmen sandiego
+castle wolfenstein
+castlevania
+chrono trigger
+civilization v
+command & conquer red alert
+commander keen
+crusaider no regret
+dark souls
+darkest dungeon
+day of the tentacle
+desert strike
+diablo
+diablo 2
+disco elysium
+discworld
+divinity original sin
+doom
+dota 2
+dune
+elden ring
+escape from monkey island
+factorio
+fall out
+final fantasy
+fortnite
+full throttle
+god of war
+grand theft auto iii
+grim dawn
+grim fandango
+gta 1
+gta 2
+gta v
+half-life
+harvest moon
+i have no mouth and i must scream
+indiana jones and the fate of atlantis
+jrpg
+league of legends
+legend of mana
+leisure suit larry
+lemmings
+little big adventure
+loom
+magic carpet
+maniac mansion
+mario galaxy
+mario odissey
+marvel vs. capcom
+metal slug
+metroid prime
+minecraft
+monster rancher
+monument valley
+mortal kombat
+myst
+neverwinter nights
+overwatch
+path of exile
+plants vs zombies
+pokemon
+portal 2
+prince of persia
+priston tale
+quake
+ragnarok
+raptor call of the shadows
+red dead redemption 2
+redneck rampage
+resident evil
+retro rpg
+rimworld
+rockstar games
+roler coaster tycoon
+runescape
+sam & max hit the road
+samorost
+scummvm
+shadowrun
+sid meier’s civilization
+simant
+simcity 2000
+simcity 3000
+simon the sorcerer
+skyrim
+star wars kotor
+star wars yoda stories
+starcraft
+stardew valley
+starfox
+street fighter
+super mario bros 3
+super mario bros
+super mario rpg
+super mario world
+super metroid
+super nintendo
+superfrog
+syndicate
+team fortress 2
+tetris
+the chaos engine
+the dig
+the elder scrolls
+the incredible machine
+the journey down
+the last of us
+the legend of zelda
+the lord of the rings
+the secret of monkey island
+the witcher
+theme park
+thief
+tibia
+tomb raider
+tony hawk's pro skater 2
+transport tycoon
+tropico 5
+tyrian
+ultima online
+undertale
+warcraft
+wing commander
+world of warcraft
+x-com ufo defense
+x-men
+yoshi's island
+zak mckracken and the alien mindbenders
