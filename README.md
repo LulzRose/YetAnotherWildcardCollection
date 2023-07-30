@@ -32,8 +32,9 @@ Including:
 
 - [X] Finish the Readme
 - [X] Organize Prompts Folder
+- [X] Prune Furries Wildcard
 - [ ] Improve naming schema
-- [ ] Prune Furries Wildcard
+
 
 ## License
 
