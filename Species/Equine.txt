@@ -80,7 +80,6 @@ caspian horse
 castilian horse
 castillonnais
 catria horse
-cavallo romano della maremma laziale
 cerbat mustang
 chickasaw horse
 chilean corralero
@@ -164,7 +163,6 @@ hungarian warmblood
 icelandic horse
 iomud
 irish draught
-irish sport horse sometimes called irish hunter
 italian heavy draft
 italian trotter
 jaca navarra
@@ -242,7 +240,6 @@ nooitgedachter
 nordlandshest
 noriker horse
 norman cob
-north american single-footer horse
 north swedish horse
 norwegian coldblood trotter
 norwegian fjord
