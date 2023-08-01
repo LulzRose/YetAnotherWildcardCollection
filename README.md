@@ -33,6 +33,7 @@ Including:
 - [X] Finish the Readme
 - [X] Organize Prompts Folder
 - [X] Prune Furries Wildcard
+- [ ] Fully Rework Emotions Card into Multiple Categorized Cards
 - [ ] Improve naming schema
 
 
