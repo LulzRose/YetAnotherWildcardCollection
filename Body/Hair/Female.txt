@@ -1,6 +1,8 @@
 afro
+ballerina bun
 bang
 beach waves
+beachy waves
 blowout
 bob
 bob cut
@@ -8,43 +10,78 @@ bouffant
 box braids
 boy cut
 braid
+braided
+braided chignon
 braided hairstyle
+braided headband
+braided ponytail
+braided space buns
 braided updo
+braids with loose waves
+bubble ponytail
 bun
 buzz cut
 chin-length bob
 choppy bob
+classic french braid
 cornrows
 crimped hair
 cropped pixie
+curly bob
 curly hair
+curly half-up half-down
+double french braids
 dreadlocks
 drill hair
 dutch braid
+dutch braid ponytail
+dutch braids
+dutch fishtail braids
 faux hawk
 fauxhawk
 fishtail braid
 french braid
 french twist
+french twist updo
 fringe
 frohawk
 graduated bob
 hair flaps
+half-up braided hairstyle
 half-up half-down
 half-up half-down hairstyle
+high bun with bangs
+high ponytail
 layered hair
+layered pixie cut
 lob
 lob (long bob)
 long hair
+long layered hair
 long pixie
+loose curls with a hair accessory
+low bun with a bow
+low ponytail with a twist
 medium hair
 messy bun
+messy chignon
+messy double buns
+messy fishtail braid
 messy hair
+messy side braid
+messy side bun
+messy top knot
 micro bangs
+micro braids
 modern shag
 mohawk
+mohawk braid
+mohawk ponytail
+mohawk updo
 pageboy
 perm
+pigtails with ribbon
+pinned back curls
 pixie bob
 pixie cut
 pixie cut with bangs
@@ -53,26 +90,63 @@ ponytail
 prom hairstyle
 quiff
 razor cut
+retro victory rolls
+reverse french braid
 ringlets
+romantic updo with loose curls
 shag
 shaggy hair
 short hair
+short pixie cut
+short shag cut
 side bang
+side parted waves
+side swept bangs
+side swept curls
+side swept faux bangs
+side swept updo
+sleek bob
 sleek hair
+sleek high bun
+sleek high ponytail
+sleek low bun
 sleek ponytail
+sleek side part
+sleek straight hair
+slicked back hair
+slicked back pixie cut
 spiked hair
 spiky hair
 spiky pixie
+spiral curls
 stacked bob
 straight hair
+textured bob
 textured hair
+textured ponytail
+textured shag cut
+tied back ponytail
+top braided knot
 top knot
+tousled bob
+tousled updo
 twin drills
 twist-out
+twisted braid
+twisted high ponytail
+twisted low ponytail
+twisted rope braid
+twisted side braid
+twisted side ponytail
 undercut pixie
 updo
 updo hairstyle
+upside down french braid bun
+vintage pin-up curls
+voluminous blowout
+voluminous half-updo
 waterfall braid
 wavy hair
+wavy lob (long bob)
 wedge cut
 wet-look hairstyle

@@ -2,6 +2,8 @@ anatomically correct
 canine
 cervine
 cetacean
+cloaca
 equine
 feline
+hairy
 humanoid

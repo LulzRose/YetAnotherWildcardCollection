@@ -1,8 +1,13 @@
 absurdly long hair
 bald
-big hair
-long hair
-medium hair
-short hair
-very long hair
-very short hair
+buzz cut
+chin length
+collarbone length
+extra-long
+jaw length
+long
+medium
+short
+shoulder length
+very long
+very short

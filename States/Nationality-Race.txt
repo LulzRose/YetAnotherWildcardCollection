@@ -1,0 +1,375 @@
+abkhaz
+acehnese
+adyghe
+afghan
+african
+afro-asian
+afro-brazilians
+afro-caribbean
+afro-caribbean-indian
+afro-colombians
+afro-latino
+afro-peruvians
+albanian
+algerian
+altai
+ambonese
+american
+amhara
+andorran
+angolan
+anguillan
+arab
+arab-american
+argentine
+armenian
+ashanti
+ashkenazi
+asháninka
+asian
+australian
+australian aboriginal
+austrian
+aymara
+azerbaijani
+bahamian
+bahraini
+balkar
+baloch
+bangladeshi
+barbadian
+barbuda
+bashkir
+batak
+belarusian
+belgian
+belizean
+bengali
+beninese
+berber
+bermudian
+bhutanese
+bolivian
+botswanan
+brazilian
+british
+british virgin islander
+bruneian
+bugis
+bulgarian
+burkinan
+burmese
+burundian
+buryat
+caicos islander
+cambodian
+cameroonian
+canadian
+cape verdean
+caucasian
+cayman islander
+central african
+central-american
+chadian
+cham
+chechen
+chilean
+chinese
+chinese malay
+chukchi
+chuvash
+circassian
+citizen of antigua
+citizen of bosnia
+citizen of guinea-bissau
+citizen of kiribati
+citizen of seychelles
+citizen of the dominican republic
+citizen of vanuatu
+colombian
+comoran
+congolese (congo)
+congolese (drc)
+cook islander
+costa rican
+crimean tatar
+croatian
+cuban
+cymraes
+cymro
+cypriot
+czech
+dagestani
+danish
+djiboutian
+dominican
+dungan
+dutch
+east asian
+east timorese
+ecuadorean
+egyptian
+emirati
+enets
+english
+equatorial guinean
+eritrean
+estonian
+ethiopian
+euro-african
+euro-asian
+evenki
+faroese
+fijian
+filipino
+finnish
+french
+fula
+gabonese
+gagauz
+gambian
+georgian
+german
+germanic
+ghanaian
+gibraltarian
+greek
+greenlandic
+grenadian
+guamanian
+guarani
+guatemalan
+guinean
+guyanese
+haitian
+han chinese
+hausa
+hazara
+herzegovina
+hispanic-asian
+hispanic/latino
+hmong
+honduran
+hong konger
+hungarian
+iban (dayak)
+icelandic
+igbo
+indian
+indo-canadian
+indonesian
+ingush
+inuit
+iranian
+iraqi
+irish
+israeli
+italian
+itelmen
+ivorian
+jamaican
+japanese
+japanese-brazilian
+javanese
+jordanian
+kabardian
+kadazan-dusun
+kalmyk
+karachay
+karakalpak
+karelian
+kazakh
+kazakh-uzbek
+kenyan
+khakas
+khanty
+khmer
+khoisan
+kittitian
+komi
+komi-permyak
+komi-zyryan
+korean
+koryak
+kosovan
+kurdish
+kuwaiti
+kyrgyz
+lao
+latvian
+lebanese
+lebanese-argentinians
+liberian
+libyan
+liechtenstein citizen
+lithuanian
+luxembourger
+maasai
+macanese
+macedonian
+malagasy
+malawian
+malay
+malaysian
+maldivian
+malian
+malinke
+maltese
+mandinka
+mansi
+maori
+mapuche
+mari
+marshallese
+martiniquais
+mauritanian
+mauritian
+melanesian
+mestizo
+mexican
+micronesian
+middle eastern
+minangkabau
+moldovan
+moluccan
+monegasque
+mongolian
+montenegrin
+montserratian
+mordvin
+moroccan
+mosotho
+mozambican
+namibian
+nanai
+native american
+native american-latino
+native hawaiian-filipino
+nauruan
+nenets
+nepalese
+new zealander
+nganasan
+nicaraguan
+nigerian
+nigerien
+niuean
+nogai
+nordic
+north korean
+northern irish
+norwegian
+omani
+oromo
+ortuguese
+ossetian
+pacific islander
+pakistani
+palauan
+palestinian
+pamiri
+panamanian
+papua new guinean
+papuan new guinean
+paraguayan
+pashtun
+persian
+peruvian
+pitcairn islander
+polish
+polynesian
+prydeinig
+puerto rican
+punjabi
+qatari
+quechua
+romani
+romanian
+russian
+rwandan
+sakha
+sakhalin ainu
+salvadorean
+sami
+sammarinese
+samoan
+sao tomean
+saudi arabian
+scottish
+selkup
+senegalese
+sephardic
+serbian
+shona
+sierra leonean
+singaporean
+sinhalese
+slavic
+slovak
+slovenian
+solomon islander
+somali
+south african
+south asian
+south korean
+south sudanese
+southeast asian
+spanish
+sri lankan
+st helenian
+st lucian
+stateless
+sudanese
+surinamese
+swahili
+swazi
+swedish
+swiss
+syrian
+taiwanese
+tajik
+tajikistani
+tamil
+tanzanian
+tatar
+thai
+tibetan
+tigrinya
+timorese
+tofalar
+togolese
+tongan
+toraja
+torres strait islander
+trinidadian
+tristanian
+tuareg
+tunisian
+turkic
+turkish
+turkmen
+turks
+tuvaluan
+tuvan
+tuvinian
+udmurt
+ugandan
+ukrainian
+uruguayan
+uyghur
+uzbek
+vatican citizen
+venezuelan
+vietnamese
+vincentian
+wallisian
+wayuu
+welsh
+wolof
+xhosa
+yanomami
+yemeni
+yoruba
+zambian
+zimbabwean
+zulu

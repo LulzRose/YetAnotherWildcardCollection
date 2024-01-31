@@ -1,13 +1,10 @@
 abyssinian
-abyssinian cat
 aegean
-african golden cat
 alolan meowth
 american bobtail
 american curl
 american shorthair
 american wirehair
-andean mountain cat
 arabian mau
 asian
 asian semi-longhair
@@ -15,10 +12,8 @@ australian mist
 balinese
 bambino
 bengal
-bengal cat
 birman
 bombay
-bombay cat
 brazilian shorthair
 british longhair
 british semi-longhair
@@ -26,18 +21,19 @@ british shorthair
 burmese
 burmilla
 caitian
-calico cat
+calico
 california spangled
+californian rex
 caracal
 cat
-cattail \(pvz\)
+ceylon
 chakat
 chantilly-tiffany
 chartreux
 chausie
 cheetoh
+chinchilla persian
 chinese mountain cat
-clank \(ratchet and clank\)
 colorpoint shorthair
 cornish rex
 cougar
@@ -45,23 +41,20 @@ cymric
 cyprus
 devon rex
 dewott
+domestic shorthair
 donskoy
 dragon li
-dwarf cat
-egyptian cat
 egyptian mau
 european burmese
 european shorthair
-exceed
-exotic
 exotic shorthair
 felyne
-flora \(twokinds\)
 foldex
 german rex
 glameow
 hairless cat
 havana brown
+highland fold
 highlander
 himalayan
 hrothgar
@@ -82,14 +75,15 @@ maine coon
 manx
 mekong bobtail
 meowth
-mew \(pokemon\)
 minskin
 miqo'te
 munchkin
 napoleon
 nebelung
 nekomata
+norwegian forest
 norwegian forest cat
+oci
 ocicat
 ojos azules
 oregon rex
@@ -103,7 +97,6 @@ perfold
 persian
 persian (modern)
 persian (traditional)
-persian cat
 peterbald
 pixie-bob
 purrloin
@@ -111,35 +104,24 @@ pyroar
 raas
 ragamuffin
 ragdoll
-ragdoll (cat)
-ragdoll cat
 ring-tailed cat
-rivet \(ratchet and clank\)
 rubbercat
 russian blue
-russian white, black and tabby
-rusty-spotted cat
+safari
 sam sawet
-sand cat
 savannah
-savannah cat
 scottish fold
 selkirk rex
 serengeti
 serrade petit
 siamese
-siamese cat
-siamese fighting fish
 siberian
-siberian cat
 singapura
 snowshoe
 sokoke
 somali
-somali cat
 sparklecat
 sphynx
-sphynx \(cat\)
 sprigatito
 suphalak
 tabaxi
@@ -147,7 +129,9 @@ tabby cat
 tabby slime
 thai
 thai lilac
+thaï
 tiffanie
+tiffany
 tonkinese
 toyger
 turkish angora
@@ -155,5 +139,6 @@ turkish van
 tuxedo cat
 ukrainian levkoy
 wildcat
+york chocolate
 zangoose
 zeraora

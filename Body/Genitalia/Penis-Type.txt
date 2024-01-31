@@ -1,6 +1,7 @@
 animal
 cervine
 cetacean
+circumcised
 cloacal
 equine
 feline
@@ -9,6 +10,7 @@ hybrid
 knotted canine
 knotted equine
 knotted humanoid
+micro
 prehensile
 ribbed
 ridged
@@ -16,4 +18,5 @@ sentient
 snake
 tapering
 tentacles
+uncircumcised
 unusual

@@ -10,6 +10,8 @@ adhesive bonding machine tender
 adjudicator
 administrative assistant
 administrative services manager
+administrator/apartment manager/dormitory manager/system administrator
+admiral
 adult education teacher
 adventurer
 advertising manager
@@ -22,69 +24,173 @@ agricultural engineer
 agricultural equipment operator
 agricultural grader
 agricultural inspector
+air hostess
+air pirate
 alchemist
+animal caretaker
+anti-hero/super anti-hero
 arcanist
+archaeologist
+archer/sharpshooter
 architect
+artificer
+artisan
 artist
+assassin
+assistant
 astromancer
+astronaut
 athlete
 backpacker
+bandit
 bard
 battlemage
 beastmaster
+blacksmith
+blue-collar worker
+body double
+bodyguard
+bounty hunter
+butcher
+captain
 carpenter
 chef
+chess player
 chronomancer
+civil servant
+clergyman
+coach
+commander
+con artist
 conjurer
 construction worker
+corpse remover
+counselor
+craftsman
+cultivator/immortal cultivator
+demolition expert
+demon hunter/exorcist/monster hunter
 demonologist
 dentist
 designer
+detective
+diplomat
 discoverer
+diviner/feng shui master
 doctor
 dragonslayer
+driver
+druid
+dual cultivation of martial arts and magic
 electrician
 elementalist
+elevator girl
 enchanter
 engineer
+esports player
+eunuch
 excursionist
+executioner
 explorer
+familiar
+farmer/agriculturist
 firefighter
+follower
 gadabout
 gallivanter
+gatekeeper
 globetrotter
+guardian
+hacker
 hair stylist
+hero/superhero
+hitman
 holidaymaker
+hunter
+inventor
 jet-setter
 journeyer
+judge
+kamen rider
+knight
 lawyer
+lumberjack
+mage/wizard/elementalist/necromancer/summoner
+magical girl/witch/magic boy
+mahjong player
+martial artist
 mechanic
+mercenary
+military officer (general/marshal)
+miner
+monk/nun
+mortician
 necromancer
+ninja
 nurse
 paladin
+paladin/dark knight/death knight/dragon rider
+party leader
 passenger
+pharmacist
+philanthropist
 photographer
 pilgrim
+pilot
+plague doctor
 plumber
 police officer
+political officer
+politician
+postman
+priest
+priest/nun
+private enforcer
+professional gamer
+professor
+programmer
 prospector
+racing girl/racer
 receptionist
 reconnoitrer
+religious leader
+revolutionary
+robot pilot
 rover
 runemaster
+sage
+sailor
+saint
 salesperson
+samurai
+sanitation worker
+scholar
 scientist
 scout
 secretary
+shinto shrine maiden/shaman
 sightseer
+sniper
 social worker
+soldier
 sorcerer
+spy
+strategist
 summoner
+super soldier
+super villain/super antagonist
+supervisor
 surveyor
+swordsman/sword saint
+system
+taoist priest/taoist nun
 teacher
+terrorist
 thaumaturge
+thief/bandit/phantom thief/pirate
 tourer
 tourist
+train attendant
 traveller
 vacationer
 vacationist
@@ -93,6 +199,10 @@ visitor
 voyager
 wanderer
 warlord
+warrior
+wet nurse
 witch
 wizard
+worker
 writer
+yin-yang master
